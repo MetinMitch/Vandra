@@ -1,0 +1,821 @@
+{
+"url": "/",
+"w": 1920,
+"mode": "full",
+"sections": [
+{
+"id": "6722614483a465349885d45d",
+"theme": "bright-inverse",
+"cls": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--top has-background bright-inverse",
+"style": "padding-top: 76.3594px;",
+"rect": [
+0,
+931
+],
+"minHeight": "712.8px",
+"padTop": "76.3594px",
+"padBot": "0px",
+"cwPad": [
+"57.6px",
+"253.44px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n      \n    ",
+"bg": {
+"src": "DJI_0269.jpg",
+"pos": "50% 50%",
+"fit": "cover"
+},
+"overlay": "0.3",
+"inFooter": false,
+"blocks": [
+{
+"id": "fe-block-yui_3_17_2_1_1739371234579_33630",
+"area": "13 / 20 / 15 / 25",
+"z": "5",
+"rect": [
+1400,
+600,
+373,
+78
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\"><strong>Vandra</strong> (Swedish pronunciation: ˈvanˌdra)<br>Means “to hike” or “to wander” in Swedish, reflecting a deep cultural tradition of spending time in nature.</p>"
+}
+],
+"kind": "fluid",
+"rows": 14,
+"rowH": "38.7969px"
+},
+{
+"id": "6722614483a465349885d461",
+"theme": "",
+"cls": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle",
+"style": null,
+"rect": [
+931,
+1238
+],
+"minHeight": "712.8px",
+"padTop": "0px",
+"padBot": "0px",
+"cwPad": [
+"126.72px",
+"126.72px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n      \n    ",
+"bg": null,
+"overlay": null,
+"inFooter": false,
+"blocks": [
+{
+"id": "fe-block-cb31d05ad35859daa211",
+"area": "1 / 2 / 12 / 10",
+"z": "1",
+"rect": [
+58,
+1057,
+589,
+537
+],
+"type": "sqs-block website-component-block image-block",
+"align": "normal",
+"img": {
+"src": "blue+back_.png",
+"fit": "cover",
+"radius": "0px",
+"pos": "50% 50%",
+"w": 589.265625,
+"h": 536.765625,
+"wrapRadius": "20px",
+"wrapOverflow": "hidden"
+}
+},
+{
+"id": "fe-block-fdb601bb38c835b6f106",
+"area": "13 / 2 / 15 / 10",
+"z": "2",
+"rect": [
+58,
+1655,
+589,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h2 style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--black\">Vandra™ </span><span class=\"sqsrte-text-color--custom\" style=\"color: #072D65\">River</span><span class=\"sqsrte-text-color--darkAccent\"> </span></h2>"
+},
+{
+"id": "fe-block-b324f1cc0ec244f18ac1",
+"area": "15 / 2 / 17 / 9",
+"z": "3",
+"rect": [
+58,
+1754,
+514,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--black\">Experience the calm of the open sea with Vandra™ River. Its soft blue echoes waves, inspiring peace on coastal walks or daily life. Adjustable fastenings keep baby snug and secure, ensuring comfort for both. Timeless and understated, it's the perfect travel companion.</span></p>"
+},
+{
+"id": "fe-block-bace8f653a9f6fd4aca5",
+"area": "17 / 2 / 18 / 6",
+"z": "5",
+"rect": [
+58,
+1854,
+289,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h4 style=\"white-space:pre-wrap;\"><a href=\"/store/p/river\"><span class=\"sqsrte-text-color--darkAccent\">Buy now <strong>→</strong></span></a></h4>"
+},
+{
+"id": "fe-block-08e73ea9803d46012c6d",
+"area": "1 / 10 / 12 / 18",
+"z": "6",
+"rect": [
+658,
+1057,
+589,
+537
+],
+"type": "sqs-block website-component-block image-block",
+"align": "normal",
+"img": {
+"src": "Green+back.png",
+"fit": "cover",
+"radius": "0px",
+"pos": "50% 50%",
+"w": 589.265625,
+"h": 536.765625,
+"wrapRadius": "20px",
+"wrapOverflow": "hidden"
+}
+},
+{
+"id": "fe-block-e2161523ef3c38a73647",
+"area": "13 / 10 / 15 / 18",
+"z": "7",
+"rect": [
+658,
+1655,
+589,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h2 style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--black\">Vandra™ </span><span class=\"sqsrte-text-color--custom\" style=\"color: #355632\">Forest</span></h2>"
+},
+{
+"id": "fe-block-95e1dbf7224398f1a913",
+"area": "15 / 10 / 17 / 17",
+"z": "8",
+"rect": [
+658,
+1754,
+514,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--black\">Experience forest calm with the Vandra™ Forest. Its deep green shade reflects nature’s healing warmth. Cushioned straps and back ensure comfort on long walks. Scandinavian minimalism fits both nature and daily life, complementing any style.</span></p>"
+},
+{
+"id": "fe-block-a3eb67731a6d6fa3d276",
+"area": "17 / 10 / 18 / 14",
+"z": "6",
+"rect": [
+658,
+1854,
+289,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h4 style=\"white-space:pre-wrap;\"><a href=\"/store/p/forest\"><span class=\"sqsrte-text-color--darkAccent\">Buy now <strong>→</strong></span></a></h4>"
+},
+{
+"id": "fe-block-952fbc1be3aea37d9269",
+"area": "1 / 18 / 12 / 26",
+"z": "9",
+"rect": [
+1258,
+1057,
+589,
+537
+],
+"type": "sqs-block website-component-block image-block",
+"align": "normal",
+"img": {
+"src": "white.png",
+"fit": "cover",
+"radius": "0px",
+"pos": "50% 50%",
+"w": 589.28125,
+"h": 536.765625,
+"wrapRadius": "20px",
+"wrapOverflow": "hidden"
+}
+},
+{
+"id": "fe-block-8277077f4b2116473497",
+"area": "13 / 18 / 15 / 26",
+"z": "10",
+"rect": [
+1258,
+1655,
+589,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h2 style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--black\">Vandra™ </span><span class=\"sqsrte-text-color--custom\" style=\"color: #BEBFC1\">Glacier</span></h2>"
+},
+{
+"id": "fe-block-71d7762e9105160b97eb",
+"area": "15 / 18 / 17 / 26",
+"z": "11",
+"rect": [
+1258,
+1754,
+589,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--black\">Experience the quiet of snowy landscapes with the Vandra™ Glacier. Inspired by Scandinavian winters, its off-white and grey design brings calm and refinement to city strolls or frosty hikes. Designed for balanced weight and ergonomic support, it offers lasting comfort on every adventure.</span></p>"
+},
+{
+"id": "fe-block-ee7c4ee75f437aa86e87",
+"area": "17 / 18 / 18 / 26",
+"z": "7",
+"rect": [
+1258,
+1854,
+589,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h4 style=\"white-space:pre-wrap;\"><a href=\"/store/p/glacier\"><span class=\"sqsrte-text-color--darkAccent\">Buy now <strong>→</strong></span></a></h4>"
+}
+],
+"kind": "fluid",
+"rows": 20,
+"rowH": "38.7969px"
+},
+{
+"id": "67acbd3beb30c67c6dfb8c70",
+"theme": "white-bold",
+"cls": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--custom content-width--wide horizontal-alignment--center vertical-alignment--middle white-bold",
+"style": "min-height: 1vh;",
+"rect": [
+2169,
+896
+],
+"minHeight": "10.8px",
+"padTop": "0px",
+"padBot": "0px",
+"cwPad": [
+"1.92px",
+"1.92px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n          \n          padding-top: calc(1vmax / 10); padding-bottom: calc(1vmax / 10);\n        \n      \n    ",
+"bg": null,
+"overlay": null,
+"inFooter": false,
+"blocks": [
+{
+"id": "fe-block-34b9a6729f86e4cd1639",
+"area": "6 / 3 / 12 / 13",
+"z": "2",
+"rect": [
+132,
+2365,
+746,
+233
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h2 style=\"white-space:pre-wrap;\">Whether you’re an avid hiker exploring new trails or simply looking to bring a bit of Nordic calm to your daily life, we invite you to embrace the essence of <span class=\"sqsrte-text-color--darkAccent\">vandra</span> and discover your own path forward.</h2>"
+},
+{
+"id": "fe-block-083c9087d416f55b71ba",
+"area": "12 / 3 / 15 / 13",
+"z": "4",
+"rect": [
+132,
+2598,
+746,
+116
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\">Born in the heart of Scandinavia, our ethos is shaped by the region’s long-standing traditions of enjoying nature in all its forms—like Norway’s “tura” culture of everyday adventures, Finland’s spirit of overcoming the rugged outdoors, and Sweden’s love for camping and fishing in pristine forests and lakes. These customs have taught us that stepping outside, even for a short wander, can bring clarity, joy, and a sense of connection to the world around us.</p>"
+},
+{
+"id": "fe-block-04d1c53f306ce38d5908",
+"area": "16 / 3 / 18 / 9",
+"z": "1",
+"rect": [
+132,
+2753,
+447,
+78
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"/about\"><span class=\"sqsrte-text-color--darkAccent\">Discover more about us <strong>→</strong></span></a></p>"
+},
+{
+"id": "fe-block-c036fb2549b89be82ed8",
+"area": "3 / 15 / 19 / 26",
+"z": "3",
+"rect": [
+1027,
+2248,
+820,
+621
+],
+"type": "sqs-block website-component-block image-block",
+"align": "normal",
+"img": {
+"src": "Forest+3.png",
+"fit": "cover",
+"radius": "0px",
+"pos": "50% 50%",
+"w": 820.359375,
+"h": 620.75,
+"wrapRadius": "20px",
+"wrapOverflow": "hidden"
+}
+}
+],
+"kind": "fluid",
+"rows": 23,
+"rowH": "38.7969px"
+},
+{
+"id": "67acbe8bf1cc22462040a92c",
+"theme": "white-bold",
+"cls": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle white-bold",
+"style": null,
+"rect": [
+3065,
+840
+],
+"minHeight": "712.8px",
+"padTop": "0px",
+"padBot": "0px",
+"cwPad": [
+"126.72px",
+"126.72px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n      \n    ",
+"bg": null,
+"overlay": null,
+"inFooter": false,
+"blocks": [
+{
+"id": "fe-block-2bf6d107b1be0274d8e7",
+"area": "2 / 2 / 4 / 13",
+"z": "1",
+"rect": [
+58,
+3242,
+814,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h2 style=\"white-space:pre-wrap;\">Frequently asked questions.</h2>"
+},
+{
+"id": "fe-block-aa89e64a086e4610b9a4",
+"area": "4 / 2 / 6 / 12",
+"z": "3",
+"rect": [
+58,
+3341,
+739,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\">Here, you’ll find clear answers to the most common questions about our baby carriers—whether you’re new to our products or simply looking for more details. If you still have questions after reading, feel free to contact our support team.</p>"
+},
+{
+"id": "fe-block-19b73901eeff418c4cae",
+"area": "6 / 2 / 8 / 8",
+"z": "4",
+"rect": [
+58,
+3441,
+439,
+89
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"/contact\">Contact us <strong><em>→</em></strong></a></p>"
+},
+{
+"id": "fe-block-38c07db028e7869256c1",
+"area": "2 / 15 / 11 / 25",
+"z": "2",
+"rect": [
+1033,
+3242,
+739,
+437
+],
+"type": "sqs-block website-component-block accordion-block",
+"align": "normal",
+"accordion": [
+{
+"q": "Which age group can use these baby carriers?",
+"a": "<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Our baby carriers are designed for children who can sit upright unassisted, typically around 6 months old. The carrier supports weights from 16 lbs to 40 lbs (7.3 kg to 18.1 kg), depending on your child’s size and activity level.</p>"
+},
+{
+"q": "Are the straps easy to adjust?",
+"a": "<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Yes. Each carrier has multiple points of adjustment, so you can quickly fine-tune the fit for both you and your child. This makes it simple to switch between different wearers.</p>"
+},
+{
+"q": "What materials are used?",
+"a": "<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">We use a blend of lightweight, breathable fabrics for the main body, along with sturdy, padded straps for support. This combination helps ensure comfort and durability.</p>"
+},
+{
+"q": "How do I clean the baby carrier?",
+"a": "<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Cleaning is simple — hand-wash the fabric with lukewarm water and pH-neutral soap. For full care instructions, please refer to the Owner’s Manual included with your carrier.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+},
+{
+"q": "Does the design differ for the Glacier, Forest, and River models?",
+"a": "<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">The features are consistent across all three carriers, but each one comes in a unique color scheme—off-white and grey for Glacier, deep green for Forest, and soothing blue for River—so you can pick the style that resonates with you.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+},
+{
+"q": "Do they comply with safety standards?",
+"a": "<p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Yes. The carriers are tested and certified by TÜV to meet ASTM F2549 standards for frame child carriers. All materials and construction methods comply with applicable U.S. safety regulations.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+}
+]
+}
+],
+"kind": "fluid",
+"rows": 12,
+"rowH": "38.7969px"
+},
+{
+"id": "682da7533e89ae7d3c754d90",
+"theme": "white",
+"cls": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--medium content-width--wide horizontal-alignment--center vertical-alignment--middle white",
+"style": null,
+"rect": [
+3905,
+913
+],
+"minHeight": "712.8px",
+"padTop": "0px",
+"padBot": "0px",
+"cwPad": [
+"126.72px",
+"126.72px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n      \n    ",
+"bg": null,
+"overlay": null,
+"inFooter": false,
+"blocks": [
+{
+"id": "fe-block-caf797253cd3c44c3f39",
+"area": "6 / 16 / 7 / 26",
+"z": "2",
+"rect": [
+1102,
+4226,
+746,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\"><span class=\"sqsrte-text-color--darkAccent\">The Vandra™ Community</span></p>"
+},
+{
+"id": "fe-block-fc90e0a08f32a75ad0c9",
+"area": "7 / 16 / 10 / 26",
+"z": "1",
+"rect": [
+1102,
+4265,
+746,
+116
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h2 style=\"white-space:pre-wrap;\">Join the Vandra™ Community. Share your stories and enjoy great deals and more. </h2>"
+},
+{
+"id": "fe-block-bf2d76a8500d78a46330",
+"area": "11 / 16 / 12 / 26",
+"z": "3",
+"rect": [
+1102,
+4420,
+746,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"\" style=\"white-space:pre-wrap;\"><a href=\"/community\" target=\"_blank\"><span class=\"sqsrte-text-color--darkAccent\">Sign up now →</span></a></p>"
+},
+{
+"id": "fe-block-08ad2dcb86f1eb860376",
+"area": "1 / 2 / 18 / 13",
+"z": "0",
+"rect": [
+58,
+4032,
+820,
+660
+],
+"type": "sqs-block website-component-block image-block",
+"align": "normal",
+"img": {
+"src": "vandra+clothing.png",
+"fit": "cover",
+"radius": "0px",
+"pos": "50% 50%",
+"w": 820.34375,
+"h": 659.546875,
+"wrapRadius": "20px",
+"wrapOverflow": "hidden"
+}
+}
+],
+"kind": "fluid",
+"rows": 17,
+"rowH": "38.7969px"
+},
+{
+"id": "67acbe9ca9f8ff1d8c5aa705",
+"theme": "white",
+"cls": "page-section user-items-list-section full-bleed-section white",
+"style": null,
+"rect": [
+4818,
+652
+],
+"minHeight": "0px",
+"padTop": "0px",
+"padBot": "0px",
+"cwPad": [
+"0px",
+"0px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n      \n    ",
+"bg": null,
+"overlay": null,
+"inFooter": false,
+"blocks": [],
+"kind": "other",
+"raw": "<div class=\"content-wrapper\" style=\"\n      \n        \n      \n    \">\n    <div class=\"content\">\n      \n      \n      \n      \n      \n      \n      \n      \n      \n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"user-items-list\" style=\"\n    min-height: 100px;\n    padding-top: 10vmax;\n    padding-bottom: 10vmax;\n    \" data-card-theme=\"\" data-section-id=\"user-items-list\" data-section-title-enabled=\"true\" data-space-below-section-title-value=\"70\" data-space-below-section-title-unit=\"px\" data-layout-width=\"full\">\n  \n    \n    <div class=\"list-section-title\" id=\"67acbe9ca9f8ff1d8c5aa705\" style=\"padding-bottom: 70px;\" data-section-title-alignment=\"center\">\n      <p class=\"\" style=\"white-space:pre-wrap;\">Hear what our customers has to say:</p>\n    </div>\n  \n\n  \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  .user-items-list-item-container[data-section-id=\"67acbe9ca9f8ff1d8c5aa705\"] .list-item-content__title {\n    font-size: 1.2rem;\n  }\n  .user-items-list-item-container[data-section-id=\"67acbe9ca9f8ff1d8c5aa705\"] .list-item-content__description {\n    font-size: 0.9rem;\n  }\n  .user-items-list-item-container[data-section-id=\"67acbe9ca9f8ff1d8c5aa705\"] .list-item-content__button {\n    font-size: 0.8rem;\n  }\n\n  @supports (--test-custom-property: true) {\n    .user-items-list-item-container[data-section-id=\"67acbe9ca9f8ff1d8c5aa705\"] {\n      --title-font-size-value: 1.2;\n      --body-font-size-value: 0.9;\n      --button-font-size-value: 0.8;\n    }\n  }\n</style>\n\n\n<ul class=\"\n    user-items-list-item-container\n    user-items-list-simple\n  \" style=\"\n    grid-gap: 60px 60px;\n  \" data-controller=\"UserItemsListSimple\" data-num-columns=\"3\" data-content-order=\"content-first\" data-alignment-vertical=\"top\" data-section-id=\"67acbe9ca9f8ff1d8c5aa705\" data-current-context=\"{\n                                                                                                                                                                                                                                                                    &quot;userItems&quot;: [ {\n                                                                                                                                                                                                                                                                      &quot;title&quot;: &quot;\\&quot;Took the Glacier out for a 3-day trip through icy valleys in northern Sweden. The padding kept our little one warm the whole time, and the off-white tone actually made us more visible in low light. Easy to clean, easy to trust — exactly what we needed in freezing weather.\\&quot;&quot;,\n                                                                                                                                                                                                                                                                      &quot;description&quot;: &quot;&lt;p class=\\&quot;\\&quot; data-rte-preserve-empty=\\&quot;true\\&quot; style=\\&quot;white-space:pre-wrap;\\&quot;&gt;Elias R., Kiruna&lt;\\/p&gt;&quot;,\n                                                                                                                                                                                                                                                                      &quot;button&quot;: {\n                                                                                                                                                                                                                                                                        &quot;buttonText&quot;: &quot;Make It&quot;,\n                                                                                                                                                                                                                                                                        &quot;buttonLink&quot;: &quot;#&quot;\n                                                                                                                                                                                                                                                                      },\n                                                                                                                                                                                                                                                                      &quot;imageId&quot;: &quot;67acbe9ca9f8ff1d8c5aa6fe&quot;,\n                                                                                                                                                                                                                                                                      &quot;imageAltText&quot;: &quot;Scenic landscape with a large body of turquoise water, rolling green hills, and distant mountains under an overcast sky.&quot;,\n                                                                                                                                                                                                                                                                      &quot;image&quot;: {\n                                                                                                                                                                                                                                                                        &quot;id&quot;: &quot;67acbe9ca9f8ff1d8c5aa6fe&quot;,\n                                                                                                                                                                                                                                                                        &quot;recordType&quot;: 2,\n                                                                                                                                                                                                                                                                        &quot;addedOn&quot;: 1618497398784,\n                                                                                                                                                                                                                                                                        &quot;updatedOn&quot;: 1618497772112,\n                                                                                                                                                                                                                                                                        &quot;starred&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;passthrough&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;workflowState&quot;: 1,\n                                                                                                                                                                                                                                                                        &quot;publishOn&quot;: 1618497398784,\n                                                                                                                                                                                                                                                                        &quot;authorId&quot;: &quot;5d9afb017103ec54d30e6874&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataId&quot;: &quot;1618497259178-6XJGK9GR6YAVBQL5L519&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataVariants&quot;: &quot;2500x1518,100w,300w,500w,750w,1000w,1500w,2500w&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataSourceType&quot;: &quot;JPG&quot;,\n                                                                                                                                                                                                                                                                        &quot;filename&quot;: &quot;20140301_Trade-151_012-2.jpg&quot;,\n                                                                                                                                                                                                                                                                        &quot;mediaFocalPoint&quot;: {\n                                                                                                                                                                                                                                                                          &quot;x&quot;: 0.5,\n                                                                                                                                                                                                                                                                          &quot;y&quot;: 0.5,\n                                                                                                                                                                                                                                                                          &quot;source&quot;: 3\n                                                                                                                                                                                                                                                                        },\n                                                                                                                                                                                                                                                                        &quot;colorData&quot;: {\n                                                                                                                                                                                                                                                                          &quot;topLeftAverage&quot;: &quot;ebf1f3&quot;,\n                                                                                                                                                                                                                                                                          &quot;topRightAverage&quot;: &quot;f7fbfc&quot;,\n                                                                                                                                                                                                                                                                          &quot;bottomLeftAverage&quot;: &quot;807855&quot;,\n                                                                                                                                                                                                                                                                          &quot;bottomRightAverage&quot;: &quot;1f261d&quot;,\n                                                                                                                                                                                                                                                                          &quot;centerAverage&quot;: &quot;698aa5&quot;,\n                                                                                                                                                                                                                                                                          &quot;suggestedBgColor&quot;: &quot;e4ecee&quot;\n                                                                                                                                                                                                                                                                        },\n                                                                                                                                                                                                                                                                        &quot;urlId&quot;: &quot;fflfv7rqfrdrlxls2s4e7a3oawvosd-3y8r9-2598p-rx84g-b83ps-4srfk-d88jl-7ja8n&quot;,\n                                                                                                                                                                                                                                                                        &quot;title&quot;: &quot;&quot;,\n                                                                                                                                                                                                                                                                        &quot;body&quot;: null,\n                                                                                                                                                                                                                                                                        &quot;likeCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;commentCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;publicCommentCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;commentState&quot;: 2,\n                                                                                                                                                                                                                                                                        &quot;unsaved&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1618497259178-6XJGK9GR6YAVBQL5L519/20140301_Trade-151_012-2.jpg&quot;,\n                                                                                                                                                                                                                                                                        &quot;contentType&quot;: &quot;image/jpeg&quot;,\n                                                                                                                                                                                                                                                                        &quot;items&quot;: [ ],\n                                                                                                                                                                                                                                                                        &quot;pushedServices&quot;: { },\n                                                                                                                                                                                                                                                                        &quot;pendingPushedServices&quot;: { },\n                                                                                                                                                                                                                                                                        &quot;originalSize&quot;: &quot;2500x1518&quot;,\n                                                                                                                                                                                                                                                                        &quot;recordTypeLabel&quot;: &quot;image&quot;\n                                                                                                                                                                                                                                                                      }\n                                                                                                                                                                                                                                                                    }, {\n                                                                                                                                                                                                                                                                      &quot;title&quot;: &quot;\\&quot;The Forest bag handled rain, mud, and uneven forest trails without fuss. I love how grounded and quiet the design feels — it doesn’t scream ‘baby gear’ but still does the job incredibly well. Bonus points for the snug fit and quiet zippers.\\&quot;&quot;,\n                                                                                                                                                                                                                                                                      &quot;description&quot;: &quot;&lt;p class=\\&quot;\\&quot; data-rte-preserve-empty=\\&quot;true\\&quot; style=\\&quot;white-space:pre-wrap;\\&quot;&gt;Line M., Oslo&lt;\\/p&gt;&quot;,\n                                                                                                                                                                                                                                                                      &quot;button&quot;: {\n                                                                                                                                                                                                                                                                        &quot;buttonText&quot;: &quot;Make It&quot;\n                                                                                                                                                                                                                                                                      },\n                                                                                                                                                                                                                                                                      &quot;imageId&quot;: &quot;67acbe9ca9f8ff1d8c5aa701&quot;,\n                                                                                                                                                                                                                                                                      &quot;imageAltText&quot;: &quot;A modern house with wooden and stone exterior walls sits on a green hillside in front of snow-capped mountains under a cloudy sky.&quot;,\n                                                                                                                                                                                                                                                                      &quot;image&quot;: {\n                                                                                                                                                                                                                                                                        &quot;id&quot;: &quot;67acbe9ca9f8ff1d8c5aa701&quot;,\n                                                                                                                                                                                                                                                                        &quot;recordType&quot;: 2,\n                                                                                                                                                                                                                                                                        &quot;addedOn&quot;: 1618422235028,\n                                                                                                                                                                                                                                                                        &quot;updatedOn&quot;: 1618426532265,\n                                                                                                                                                                                                                                                                        &quot;starred&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;passthrough&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;workflowState&quot;: 1,\n                                                                                                                                                                                                                                                                        &quot;publishOn&quot;: 1618422235028,\n                                                                                                                                                                                                                                                                        &quot;authorId&quot;: &quot;5d9afb017103ec54d30e6874&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataId&quot;: &quot;1607694583486-2PQT0LQ193RL7MCB6DX4&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataVariants&quot;: &quot;5000x3333,100w,300w,500w,750w,1000w,1500w,2500w&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataSourceType&quot;: &quot;JPG&quot;,\n                                                                                                                                                                                                                                                                        &quot;filename&quot;: &quot;20140228_Trade 151_0046.jpg&quot;,\n                                                                                                                                                                                                                                                                        &quot;mediaFocalPoint&quot;: {\n                                                                                                                                                                                                                                                                          &quot;x&quot;: 0.5,\n                                                                                                                                                                                                                                                                          &quot;y&quot;: 0.5,\n                                                                                                                                                                                                                                                                          &quot;source&quot;: 3\n                                                                                                                                                                                                                                                                        },\n                                                                                                                                                                                                                                                                        &quot;colorData&quot;: {\n                                                                                                                                                                                                                                                                          &quot;topLeftAverage&quot;: &quot;f4fafa&quot;,\n                                                                                                                                                                                                                                                                          &quot;topRightAverage&quot;: &quot;f0f5f8&quot;,\n                                                                                                                                                                                                                                                                          &quot;bottomLeftAverage&quot;: &quot;2d352e&quot;,\n                                                                                                                                                                                                                                                                          &quot;bottomRightAverage&quot;: &quot;272e26&quot;,\n                                                                                                                                                                                                                                                                          &quot;centerAverage&quot;: &quot;cfdbe4&quot;,\n                                                                                                                                                                                                                                                                          &quot;suggestedBgColor&quot;: &quot;f4fafa&quot;\n                                                                                                                                                                                                                                                                        },\n                                                                                                                                                                                                                                                                        &quot;urlId&quot;: &quot;usk5m637hqnbzi5ue05hgb1jq44dny-j5sp6-4sejx-jtrf6-ajr23-zwbnm-3mwkf-kmlz9-htsxc-ekxwc&quot;,\n                                                                                                                                                                                                                                                                        &quot;title&quot;: &quot;&quot;,\n                                                                                                                                                                                                                                                                        &quot;body&quot;: null,\n                                                                                                                                                                                                                                                                        &quot;likeCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;commentCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;publicCommentCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;commentState&quot;: 2,\n                                                                                                                                                                                                                                                                        &quot;unsaved&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1607694583486-2PQT0LQ193RL7MCB6DX4/20140228_Trade+151_0046.jpg&quot;,\n                                                                                                                                                                                                                                                                        &quot;contentType&quot;: &quot;image/jpeg&quot;,\n                                                                                                                                                                                                                                                                        &quot;items&quot;: [ ],\n                                                                                                                                                                                                                                                                        &quot;pushedServices&quot;: { },\n                                                                                                                                                                                                                                                                        &quot;pendingPushedServices&quot;: { },\n                                                                                                                                                                                                                                                                        &quot;originalSize&quot;: &quot;5000x3333&quot;,\n                                                                                                                                                                                                                                                                        &quot;recordTypeLabel&quot;: &quot;image&quot;\n                                                                                                                                                                                                                                                                      }\n                                                                                                                                                                                                                                                                    }, {\n                                                                                                                                                                                                                                                                      &quot;title&quot;: &quot;\\&quot;Used the River bag on a weekend canoe trip. We got splashed plenty, but everything inside stayed dry. It’s lightweight, structured just enough, and blends beautifully into the scenery. My favorite part? No rustling noises when walking through still places.\\&quot;&quot;,\n                                                                                                                                                                                                                                                                      &quot;description&quot;: &quot;&lt;p class=\\&quot;\\&quot; data-rte-preserve-empty=\\&quot;true\\&quot; style=\\&quot;white-space:pre-wrap;\\&quot;&gt;Jonas V., Åre&lt;\\/p&gt;&quot;,\n                                                                                                                                                                                                                                                                      &quot;button&quot;: {\n                                                                                                                                                                                                                                                                        &quot;buttonText&quot;: &quot;Make It&quot;\n                                                                                                                                                                                                                                                                      },\n                                                                                                                                                                                                                                                                      &quot;imageId&quot;: &quot;67acbe9ca9f8ff1d8c5aa704&quot;,\n                                                                                                                                                                                                                                                                      &quot;imageAltText&quot;: &quot;Modern building with wooden exterior and large glass window in a mountainous landscape with dry grass and small trees.&quot;,\n                                                                                                                                                                                                                                                                      &quot;image&quot;: {\n                                                                                                                                                                                                                                                                        &quot;id&quot;: &quot;67acbe9ca9f8ff1d8c5aa704&quot;,\n                                                                                                                                                                                                                                                                        &quot;recordType&quot;: 2,\n                                                                                                                                                                                                                                                                        &quot;addedOn&quot;: 1618427191766,\n                                                                                                                                                                                                                                                                        &quot;updatedOn&quot;: 1618427191936,\n                                                                                                                                                                                                                                                                        &quot;starred&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;passthrough&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;workflowState&quot;: 1,\n                                                                                                                                                                                                                                                                        &quot;publishOn&quot;: 1618427191766,\n                                                                                                                                                                                                                                                                        &quot;authorId&quot;: &quot;5d9afb017103ec54d30e6874&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataId&quot;: &quot;1607694644871-IC85FNH781UNZSZEGHDR&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataVariants&quot;: &quot;5000x3333,100w,300w,500w,750w,1000w,1500w,2500w&quot;,\n                                                                                                                                                                                                                                                                        &quot;systemDataSourceType&quot;: &quot;JPG&quot;,\n                                                                                                                                                                                                                                                                        &quot;filename&quot;: &quot;Aro Ha_0428.jpg&quot;,\n                                                                                                                                                                                                                                                                        &quot;mediaFocalPoint&quot;: {\n                                                                                                                                                                                                                                                                          &quot;x&quot;: 0.5,\n                                                                                                                                                                                                                                                                          &quot;y&quot;: 0.5,\n                                                                                                                                                                                                                                                                          &quot;source&quot;: 3\n                                                                                                                                                                                                                                                                        },\n                                                                                                                                                                                                                                                                        &quot;colorData&quot;: {\n                                                                                                                                                                                                                                                                          &quot;topLeftAverage&quot;: &quot;ecf0f3&quot;,\n                                                                                                                                                                                                                                                                          &quot;topRightAverage&quot;: &quot;f5f9fa&quot;,\n                                                                                                                                                                                                                                                                          &quot;bottomLeftAverage&quot;: &quot;b39a51&quot;,\n                                                                                                                                                                                                                                                                          &quot;bottomRightAverage&quot;: &quot;907f46&quot;,\n                                                                                                                                                                                                                                                                          &quot;centerAverage&quot;: &quot;878b7d&quot;,\n                                                                                                                                                                                                                                                                          &quot;suggestedBgColor&quot;: &quot;eaeef1&quot;\n                                                                                                                                                                                                                                                                        },\n                                                                                                                                                                                                                                                                        &quot;urlId&quot;: &quot;fi7e4iqek8i6vx1nxbf0pwm0ayokla-87crz-fegtl-7a59a-ra942-7e4bc-6h5fk-4e9b9-6akl5&quot;,\n                                                                                                                                                                                                                                                                        &quot;title&quot;: &quot;&quot;,\n                                                                                                                                                                                                                                                                        &quot;body&quot;: null,\n                                                                                                                                                                                                                                                                        &quot;likeCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;commentCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;publicCommentCount&quot;: 0,\n                                                                                                                                                                                                                                                                        &quot;commentState&quot;: 2,\n                                                                                                                                                                                                                                                                        &quot;unsaved&quot;: false,\n                                                                                                                                                                                                                                                                        &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1607694644871-IC85FNH781UNZSZEGHDR/Aro+Ha_0428.jpg&quot;,\n                                                                                                                                                                                                                                                                        &quot;contentType&quot;: &quot;image/jpeg&quot;,\n                                                                                                                                                                                                                                                                        &quot;items&quot;: [ ],\n                                                                                                                                                                                                                                                                        &quot;pushedServices&quot;: { },\n                                                                                                                                                                                                                                                                        &quot;pendingPushedServices&quot;: { },\n                                                                                                                                                                                                                                                                        &quot;originalSize&quot;: &quot;5000x3333&quot;,\n                                                                                                                                                                                                                                                                        &quot;recordTypeLabel&quot;: &quot;image&quot;\n                                                                                                                                                                                                                                                                      }\n                                                                                                                                                                                                                                                                    } ],\n                                                                                                                                                                                                                                                                    &quot;styles&quot;: {\n                                                                                                                                                                                                                                                                      &quot;imageFocalPoint&quot;: {\n                                                                                                                                                                                                                                                                        &quot;x&quot;: 0.5,\n                                                                                                                                                                                                                                                                        &quot;y&quot;: 0.5\n                                                                                                                                                                                                                                                                      },\n                                                                                                                                                                                                                                                                      &quot;imageOverlayOpacity&quot;: 0.3,\n                                                                                                                                                                                                                                                                      &quot;sectionTheme&quot;: &quot;white&quot;,\n                                                                                                                                                                                                                                                                      &quot;imageEffect&quot;: &quot;none&quot;,\n                                                                                                                                                                                                                                                                      &quot;backgroundMode&quot;: &quot;image&quot;,\n                                                                                                                                                                                                                                                                      &quot;backgroundImage&quot;: null\n                                                                                                                                                                                                                                                                    },\n                                                                                                                                                                                                                                                                    &quot;video&quot;: {\n                                                                                                                                                                                                                                                                      &quot;filter&quot;: 1,\n                                                                                                                                                                                                                                                                      &quot;videoFallbackContentItem&quot;: null,\n                                                                                                                                                                                                                                                                      &quot;nativeVideoContentItem&quot;: null,\n                                                                                                                                                                                                                                                                      &quot;videoSourceProvider&quot;: &quot;none&quot;\n                                                                                                                                                                                                                                                                    },\n                                                                                                                                                                                                                                                                    &quot;backgroundImageFocalPoint&quot;: null,\n                                                                                                                                                                                                                                                                    &quot;backgroundImageId&quot;: null,\n                                                                                                                                                                                                                                                                    &quot;options&quot;: {\n                                                                                                                                                                                                                                                                      &quot;maxColumns&quot;: 3,\n                                                                                                                                                                                                                                                                      &quot;isCardEnabled&quot;: false,\n                                                                                                                                                                                                                                                                      &quot;isMediaEnabled&quot;: false,\n                                                                                                                                                                                                                                                                      &quot;isTitleEnabled&quot;: true,\n                                                                                                                                                                                                                                                                      &quot;isBodyEnabled&quot;: true,\n                                                                                                                                                                                                                                                                      &quot;isButtonEnabled&quot;: false,\n                                                                                                                                                                                                                                                                      &quot;mediaAspectRatio&quot;: &quot;4:3&quot;,\n                                                                                                                                                                                                                                                                      &quot;layoutWidth&quot;: &quot;full&quot;,\n                                                                                                                                                                                                                                                                      &quot;mediaWidth&quot;: {\n                                                                                                                                                                                                                                                                        &quot;value&quot;: 100,\n                                                                                                                                                                                                                                                                        &quot;unit&quot;: &quot;%&quot;\n                                                                                                                                                                                                                                                                      },\n                                                                                                                                                                                                                             "
+},
+{
+"id": "6722610f83a465349885c9c7",
+"theme": "white-bold",
+"cls": "page-section full-bleed-section layout-engine-section background-width--full-bleed section-height--custom content-width--wide horizontal-alignment--center vertical-alignment--middle white-bold",
+"style": "min-height: 1vh;",
+"rect": [
+5470,
+508
+],
+"minHeight": "0px",
+"padTop": "0px",
+"padBot": "0px",
+"cwPad": [
+"1.92px",
+"1.92px",
+"0px",
+"0px"
+],
+"cwStyle": "\n      \n        \n          \n          padding-top: calc(1vmax / 10); padding-bottom: calc(1vmax / 10);\n        \n      \n    ",
+"bg": null,
+"overlay": null,
+"inFooter": true,
+"blocks": [
+{
+"id": "fe-block-yui_3_17_2_1_1747769784074_8896",
+"area": "4 / 2 / 12 / 12",
+"z": "6",
+"rect": [
+58,
+5588,
+746,
+310
+],
+"type": "sqs-block website-component-block newsletter-block",
+"align": "normal",
+"form": {
+"fields": [
+{
+"cls": "newsletter-form-field-wrapper form-item field email required",
+"label": "",
+"req": false,
+"inputs": [
+{
+"tag": "INPUT",
+"type": "email",
+"name": "email",
+"ph": "Email Address"
+}
+]
+}
+],
+"btn": "Sign up"
+},
+"newsletter": {
+"title": "Newsletter",
+"desc": "Sign up with your email address to receive the news and updates.",
+"label": "",
+"btn": "Sign up",
+"footer": ""
+}
+},
+{
+"id": "fe-block-yui_3_17_2_1_1748083636710_2247",
+"area": "5 / 11 / 12 / 15",
+"z": "7",
+"rect": [
+729,
+5627,
+298,
+272
+],
+"type": "sqs-block website-component-block code-block",
+"align": "normal",
+"raw": "<div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-code code-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/c9b42b8a-3c4a-4559-ba02-8b0b596b2de4_1050/website.components.code.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/c9b42b8a-3c4a-4559-ba02-8b0b596b2de4_1050/website.components.code.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.code\" data-sqsp-block=\"code\" data-website-component-id=\"yui_3_17_2_1_1748083636710_2247\" id=\"block-yui_3_17_2_1_1748083636710_2247\"><div class=\"sqs-block-content\">\n  \n\n<div class=\"sqs-code-container\" data-localized=\"{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}\">\n  \n    <style> html:not(.snap-off) section[data-section-id=\"6722610f83a465349885c9c7\"] {\ndisplay: flex !important;\nmin-height: inherit !important;\n} </style>\n  \n  \n\n\n\n</div>\n\n<style class=\"transform-overrides-vars\">\n  \n</style>\n\n</div></div>"
+},
+{
+"id": "fe-block-1bd539d0759f519cd486",
+"area": "4 / 19 / 5 / 21",
+"z": "1",
+"rect": [
+1325,
+5588,
+149,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h3 style=\"white-space:pre-wrap;\">Help</h3>"
+},
+{
+"id": "fe-block-d75eb6cbd3b9e0ca8efa",
+"area": "4 / 22 / 5 / 24",
+"z": "2",
+"rect": [
+1549,
+5588,
+149,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<h3 style=\"white-space:pre-wrap;\">Contact</h3>"
+},
+{
+"id": "fe-block-846f4439744af1fe2d54",
+"area": "6 / 22 / 9 / 26",
+"z": "6",
+"rect": [
+1549,
+5666,
+298,
+116
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\">PFS Enterprise LLC\u0003<br>30 N Gould St, STE<br>4000, Sheridan, WY 82801, USA\u0003<a href=\"mailto:info@vandrastudios.com?\" target=\"_blank\">info@vandrastudios.com</a></p>"
+},
+{
+"id": "fe-block-b0c0cdfee0e18c2f6839",
+"area": "6 / 19 / 9 / 22",
+"z": "5",
+"rect": [
+1325,
+5666,
+224,
+116
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p class=\"sqsrte-small\" style=\"white-space:pre-wrap;\"><a href=\"/terms\" target=\"\">Terms &amp; Conditions</a><br><a href=\"/shipping\">Shipping and Return\u0003</a><br><a href=\"/privacy\">Privacy Policy</a><br><a href=\"/registration\">Product registration</a></p>"
+},
+{
+"id": "fe-block-14fc9026d80368d2b4ed",
+"area": "12 / 11 / 13 / 17",
+"z": "0",
+"rect": [
+729,
+5898,
+447,
+39
+],
+"type": "sqs-block website-component-block html-block",
+"align": "normal",
+"html": "<p style=\"text-align:center;white-space:pre-wrap;\" class=\"sqsrte-small\"><strong>Vandra™ </strong>2025 | All rights reserved</p>"
+}
+],
+"kind": "fluid",
+"rows": 13,
+"rowH": "38.7969px"
+}
+],
+"header": {
+"h": 115.984375,
+"pos": "absolute",
+"theme": "bright-inverse",
+"padding": "0px",
+"logo": {
+"w": 61.421875,
+"h": 19.984375,
+"x": 57.59375,
+"y": -4850
+},
+"nav": {
+"rect": [
+651.1875,
+-4848.71875,
+605.59375,
+17.421875
+],
+"font": "10.9312px",
+"items": [
+{
+"t": "Store",
+"x": 862,
+"w": 26,
+"fs": "10.9312px",
+"ls": "normal",
+"fw": "500",
+"color": "rgb(238, 238, 238)"
+},
+{
+"t": "Stories",
+"x": 907,
+"w": 34,
+"fs": "10.9312px",
+"ls": "normal",
+"fw": "500",
+"color": "rgb(238, 238, 238)"
+},
+{
+"t": "About",
+"x": 959,
+"w": 29,
+"fs": "10.9312px",
+"ls": "normal",
+"fw": "500",
+"color": "rgb(238, 238, 238)"
+},
+{
+"t": "Contact",
+"x": 1008,
+"w": 39,
+"fs": "10.9312px",
+"ls": "normal",
+"fw": "500",
+"color": "rgb(238, 238, 238)"
+}
+]
+},
+"burger": {
+"rect": [
+0,
+0,
+0,
+0
+],
+"display": "none"
+},
+"cart": [
+0,
+0
+],
+"html": "\n          \n\n          \n\n          \n\n          \n\n          \n\n          \n          \n            \n\n\n<style>\n  .top-bun, \n  .patty, \n  .bottom-bun {\n    height: 1px;\n  }\n</style>\n\n<!-- Burger -->\n<div class=\"header-burger\n\n  menu-overlay-does-not-have-visible-non-navigation-items\n\n\n  \n  no-actions\n  \n\" data-animation-role=\"header-element\">\n  <button class=\"header-burger-btn burger\" data-test=\"header-burger\">\n    <span class=\"js-header-burger-open-title visually-hidden\">Open Menu</span>\n    <span hidden=\"\" class=\"js-header-burger-close-title visually-hidden\">Close Menu</span>\n    <div class=\"burger-box\">\n      <div class=\"burger-inner header-menu-icon-doubleLineHamburger\">\n        <div class=\"top-bun\"></div>\n        <div class=\"patty\"></div>\n        <div class=\"bottom-bun\"></div>\n      </div>\n    </div>\n  </button>\n</div>\n\n            \n            <!-- Social -->\n            \n          \n            \n            <!-- Title and nav wrapper -->\n            <div class=\"header-title-nav-wrapper\">\n              \n\n              \n\n              \n                \n                <!-- Title -->\n                \n                  <div class=\"\n                      header-title\n                      \n                    \" data-animation-role=\"header-element\">\n                    \n                      <div class=\"header-title-logo\">\n                        <a href=\"/home\" data-animation-role=\"header-element\">\n                        \n<img elementtiming=\"nbf-header-logo-desktop\" src=\"//images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/74bfbbff-5d30-46d0-9ec1-1287a2ccf83d/Vandra+logo.png?format=1500w\" alt=\"Vandra\" style=\"display:block\" fetchpriority=\"high\" loading=\"eager\" decoding=\"async\" data-loader=\"raw\">\n\n                        </a>\n                      </div>\n\n                    \n                    \n                  </div>\n                \n              \n                \n                <!-- Nav -->\n                <div class=\"header-nav\">\n                  <div class=\"header-nav-wrapper\">\n                    <nav class=\"header-nav-list\">\n                      \n\n\n  \n    <div class=\"header-nav-item header-nav-item--collection\">\n      <a href=\"/store\" data-animation-role=\"header-element\">\n        Store\n      </a>\n    </div>\n  \n  \n  \n\n\n  \n    <div class=\"header-nav-item header-nav-item--collection\">\n      <a href=\"/stories\" data-animation-role=\"header-element\">\n        Stories\n      </a>\n    </div>\n  \n  \n  \n\n\n  \n    <div class=\"header-nav-item header-nav-item--collection\">\n      <a href=\"/about\" data-animation-role=\"header-element\">\n        About\n      </a>\n    </div>\n  \n  \n  \n\n\n  \n    <div class=\"header-nav-item header-nav-item--collection\">\n      <a href=\"/contact\" data-animation-role=\"header-element\">\n        Contact\n      </a>\n    </div>\n  \n  \n  \n\n\n\n                    </nav>\n                  </div>\n                </div>\n              \n              \n            </div>\n          \n            \n            <!-- Actions -->\n            <div class=\"header-actions header-actions--right\">\n              \n                \n              \n              \n\n              \n\n            \n            \n\n              \n\n              \n\n              \n\n              \n\n              \n            \n\n              \n              <div class=\"showOnMobile\">\n                \n                  \n                \n                \n                  \n                  \n                    <div class=\"header-actions-action header-actions-action--cart header-nav-item\">\n                      <a class=\"cart-style-text cart-text-link sqs-custom-cart header-icon show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline sqs-template-integrated-shopping-cart\" href=\"/cart\" data-test=\"continue-to-cart\" aria-label=\"0 items in cart\">\n                        \n                          <span class=\"mobile-cart-parenthesis\">(</span><span class=\"sqs-cart-quantity\">0</span><span class=\"mobile-cart-parenthesis\">)</span>\n                        \n                      </a>\n                    </div>\n                  \n                \n              \n                \n              </div>\n\n              \n              <div class=\"showOnDesktop\">\n                \n                  \n                \n                \n                  \n                  \n                    <div class=\"header-actions-action header-actions-action--cart header-nav-item\">\n                      <a class=\"cart-style-text cart-text-link sqs-custom-cart header-icon show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline sqs-template-integrated-shopping-cart\" href=\"/cart\" data-test=\"continue-to-cart\" aria-label=\"0 items in cart\">\n                        \n                          Cart\n                          \n                <span class=\"cart-quantity-container\">\n                  \n                    (<span class=\"sqs-cart-quantity\">0</span>)\n                  \n                </span>\n              \n                        \n                      </a>\n                    </div>\n                  \n                \n              \n                \n              </div>\n\n              \n            </div>\n          \n          \n\n        "
+},
+"doc": 5978
+}

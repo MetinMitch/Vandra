@@ -1,0 +1,3328 @@
+{
+ "/about": {
+  "title": "About | Explore with Purpose — Start Your Journey — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "About Vandra™"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ takes its name from the Swedish word vandra, meaning “to hike” or “to wander.” This simple yet powerful word reflects our core belief that exploring the outdoors is a vital part of a balanced life."
+     },
+     {
+      "P": "At Vandra™, we honor these Scandinavian ideals through minimalist design, sustainable materials, and thoughtful functionality—ensuring our products support you on every journey. Whether you’re an avid hiker exploring new trails or simply looking to bring a bit of Nordic calm to your daily life, we invite you to embrace the essence of vandra and discover your own path forward."
+     },
+     {
+      "H1": "Mission"
+     },
+     {
+      "P": "At Vandra™, we envision a world where everyone discovers the simple joy of wandering in nature. Guided by Scandinavian values of sustainability, minimalism, and respect for the outdoors, our goal is to inspire a global community that embraces exploration, nurtures the environment, and brings a sense of calm to everyday life—no matter where the path leads."
+     },
+     {
+      "H1": "Vision"
+     },
+     {
+      "H2": "Whether you’re an avid hiker exploring new trails or simply looking to bring a bit of Nordic calm to your daily life, we invite you to embrace the essence of vandra and discover your own path forward."
+     },
+     {
+      "P.sqsrte-small": "Born in the heart of Scandinavia, our ethos is shaped by the region’s long-standing traditions of enjoying nature in all its forms—like Norway’s “tura” culture of everyday adventures, Finland’s spirit of overcoming the rugged outdoors, and Sweden’s love for camping and fishing in pristine forests and lakes. These customs have taught us that stepping outside, even for a short wander, can bring clarity, joy, and a sense of connection to the world around us."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b21ae4d3-76da-4a68-95f3-76869446194c/DJI_0095.JPG",
+      "alt": "Snow-covered mountain with a conical shape under a cloudy sky."
+     },
+     {
+      "H2": "\"From remote trails to everyday routines, Vandra offers a way to carry balance with you. It’s about finding clarity in movement, and calm in the moments between.\""
+     },
+     {
+      "P.sqsrte-small": "Metin AgarCEO & Founder"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a79fa0d9-21eb-46ac-8c48-831c3d97e93b/Forest+3.png",
+      "alt": ""
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "About Vandra™"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ takes its name from the Swedish word vandra, meaning “to hike” or “to wander.” This simple yet powerful word reflects our core belief that exploring the outdoors is a vital part of a balanced life."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "P": "At Vandra™, we honor these Scandinavian ideals through minimalist design, sustainable materials, and thoughtful functionality—ensuring our products support you on every journey. Whether you’re an avid hiker exploring new trails or simply looking to bring a bit of Nordic calm to your daily life, we invite you to embrace the essence of vandra and discover your own path forward."
+     },
+     {
+      "H1": "Mission"
+     },
+     {
+      "P": "At Vandra™, we envision a world where everyone discovers the simple joy of wandering in nature. Guided by Scandinavian values of sustainability, minimalism, and respect for the outdoors, our goal is to inspire a global community that embraces exploration, nurtures the environment, and brings a sense of calm to everyday life—no matter where the path leads."
+     },
+     {
+      "H1": "Vision"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "light",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Whether you’re an avid hiker exploring new trails or simply looking to bring a bit of Nordic calm to your daily life, we invite you to embrace the essence of vandra and discover your own path forward."
+     },
+     {
+      "P.sqsrte-small": "Born in the heart of Scandinavia, our ethos is shaped by the region’s long-standing traditions of enjoying nature in all its forms—like Norway’s “tura” culture of everyday adventures, Finland’s spirit of overcoming the rugged outdoors, and Sweden’s love for camping and fishing in pristine forests and lakes. These customs have taught us that stepping outside, even for a short wander, can bring clarity, joy, and a sense of connection to the world around us."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b21ae4d3-76da-4a68-95f3-76869446194c/DJI_0095.JPG",
+      "alt": "Snow-covered mountain with a conical shape under a cloudy sky."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "light",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "\"From remote trails to everyday routines, Vandra offers a way to carry balance with you. It’s about finding clarity in movement, and calm in the moments between.\""
+     },
+     {
+      "P.sqsrte-small": "Metin AgarCEO & Founder"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a79fa0d9-21eb-46ac-8c48-831c3d97e93b/Forest+3.png",
+      "alt": ""
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/contact": {
+  "title": "Contact | Get in Touch Today — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Contact usinfo@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Contact our support for more information, questions or anything related to you experience with Vandra™."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Contact usinfo@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Contact our support for more information, questions or anything related to you experience with Vandra™."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/community": {
+  "title": "Newsletter — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Share your stories. Receive special deals."
+     },
+     {
+      "P.sqsrte-small": "Share your unique stories with us and in return, receive exclusive special deals tailored just for you. We value your experiences and look forward to hearing from you."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Share your stories. Receive special deals."
+     },
+     {
+      "P.sqsrte-small": "Share your unique stories with us and in return, receive exclusive special deals tailored just for you. We value your experiences and look forward to hearing from you."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/registration": {
+  "title": "Contact | Get in Touch Today — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Product registration for safety alert and recall only."
+     },
+     {
+      "P.sqsrte-small": "We will use the information provided on this card to contact you only if there is a safety alert or recall for this product. We will not sell, rent, or share your personal information. If you register on this website, you do not need to fill out the card that came with your product."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Product registration for safety alert and recall only."
+     },
+     {
+      "P.sqsrte-small": "We will use the information provided on this card to contact you only if there is a safety alert or recall for this product. We will not sell, rent, or share your personal information. If you register on this website, you do not need to fill out the card that came with your product."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/store": {
+  "title": "Store | Explore Scandinavian Style Today — Vandra",
+  "sections": [
+   {
+    "cls": "sections",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Our products"
+     },
+     {
+      "P.sqsrte-small": "Premium bags designed in Scandinavia, offering a perfect blend of style and functionality. Select the one that best matches your environment—choose from our three colors, each designed to complement different settings, whether for work, leisure, or travel."
+     },
+     {
+      "H2.nested-category-title": "Store"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "All |"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "River |"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "Forest |"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "Glacier |"
+     },
+     {
+      "LABEL.product-filter-label": "Categories"
+     },
+     {
+      "LABEL.product-filter-label": "Categories"
+     },
+     {
+      "field": "SELECT",
+      "type": "select-one",
+      "name": ""
+     },
+     {
+      "H4.product-list-filters-drawer-title": "Filters"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": "Vandra™ River"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": "Vandra™ Forest"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": "Vandra™ Glacier"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "H4": "No results found"
+     },
+     {
+      "P": "No results match your search. Try removing a few filters."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Our products"
+     },
+     {
+      "P.sqsrte-small": "Premium bags designed in Scandinavia, offering a perfect blend of style and functionality. Select the one that best matches your environment—choose from our three colors, each designed to complement different settings, whether for work, leisure, or travel."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-list-se",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.nested-category-title": "Store"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "All |"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "River |"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "Forest |"
+     },
+     {
+      "LI.nested-category-breadcrumb-list-item": "Glacier |"
+     },
+     {
+      "LABEL.product-filter-label": "Categories"
+     },
+     {
+      "LABEL.product-filter-label": "Categories"
+     },
+     {
+      "field": "SELECT",
+      "type": "select-one",
+      "name": ""
+     },
+     {
+      "H4.product-list-filters-drawer-title": "Filters"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": "Vandra™ River"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": "Vandra™ Forest"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": "Vandra™ Glacier"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "H4": "No results found"
+     },
+     {
+      "P": "No results match your search. Try removing a few filters."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/store/p/river": {
+  "title": "Vandra™ River — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "H1.product-title": "Vandra™ River"
+     },
+     {
+      "DIV.product-price": "$219.00"
+     },
+     {
+      "P": "Experience the vast calm of the open sea with the Vandra™ River. Its gentle blue shade echoes rolling waves, inspiring peaceful exploration on coastal paths or in everyday life. It has adjustable fastenings to keep your baby snug and secure, ensuring a comfortable fit for both parent and child. Understated yet timeless in design, it’s the perfect companion for creating memories wherever your travels take you."
+     },
+     {
+      "field": "INPUT",
+      "type": "number",
+      "name": "quantity-input",
+      "ph": ""
+     },
+     {
+      "P": "Experience the vast calm of the open sea with the Vandra™ River. Its gentle blue shade echoes rolling waves, inspiring peaceful exploration on coastal paths or in everyday life. It has adjustable fastenings to keep your baby snug and secure, ensuring a comfortable fit for both parent and child. Understated yet timeless in design, it’s the perfect companion for creating memories wherever your travels take you."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/872a589b-ced2-48d0-9194-eb782877239d/45+deg+left+back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "H2": "Specifications"
+     },
+     {
+      "LI.accordion-item": "Ergonomic Support Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "H4.\n": "Ergonomic Support"
+     },
+     {
+      "SPAN.accordion-item__title": "Ergonomic Support"
+     },
+     {
+      "DIV.\n": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "P": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "LI.accordion-item": "Adjustable Fit Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "H4.\n": "Adjustable Fit"
+     },
+     {
+      "SPAN.accordion-item__title": "Adjustable Fit"
+     },
+     {
+      "DIV.\n": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "P": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "LI.accordion-item": "Breathable Materials Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "H4.\n": "Breathable Materials"
+     },
+     {
+      "SPAN.accordion-item__title": "Breathable Materials"
+     },
+     {
+      "DIV.\n": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "P": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "LI.accordion-item": "Weather-Resistant Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "H4.\n": "Weather-Resistant"
+     },
+     {
+      "SPAN.accordion-item__title": "Weather-Resistant"
+     },
+     {
+      "DIV.\n": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "P": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "LI.accordion-item": "Safety Features Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "H4.\n": "Safety Features"
+     },
+     {
+      "SPAN.accordion-item__title": "Safety Features"
+     },
+     {
+      "DIV.\n": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "P": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "LI.accordion-item": "Removable Sunshade A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "H4.\n": "Removable Sunshade"
+     },
+     {
+      "SPAN.accordion-item__title": "Removable Sunshade"
+     },
+     {
+      "DIV.\n": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "P": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "LI.accordion-item": "Integrated Cockpit Safety Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "H4.\n": "Integrated Cockpit Safety"
+     },
+     {
+      "SPAN.accordion-item__title": "Integrated Cockpit Safety"
+     },
+     {
+      "DIV.\n": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "P": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-detail-",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ceae84-bc21-43b4-88c6-73c19e787fe3/blue+back_.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f7ee03c0-6df5-4da1-a436-5f8a0f8014f3/back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/c70647fb-6f30-45d3-b843-82e357ab3c14/Front+B.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d22649dc-c0e9-41b9-9ffd-62ca213076e5/45+deg+right+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/96673ab6-4187-4d7e-92e1-873ee80d7f22/profile+1+blue.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cadfc0ca-1c79-424a-8a0c-205bf1a7e954/45+Degree+B.jpg",
+      "alt": ""
+     },
+     {
+      "H1.product-title": "Vandra™ River"
+     },
+     {
+      "DIV.product-price": "$219.00"
+     },
+     {
+      "P": "Experience the vast calm of the open sea with the Vandra™ River. Its gentle blue shade echoes rolling waves, inspiring peaceful exploration on coastal paths or in everyday life. It has adjustable fastenings to keep your baby snug and secure, ensuring a comfortable fit for both parent and child. Understated yet timeless in design, it’s the perfect companion for creating memories wherever your travels take you."
+     },
+     {
+      "field": "INPUT",
+      "type": "number",
+      "name": "quantity-input",
+      "ph": ""
+     },
+     {
+      "P": "Experience the vast calm of the open sea with the Vandra™ River. Its gentle blue shade echoes rolling waves, inspiring peaceful exploration on coastal paths or in everyday life. It has adjustable fastenings to keep your baby snug and secure, ensuring a comfortable fit for both parent and child. Understated yet timeless in design, it’s the perfect companion for creating memories wherever your travels take you."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      layout-engine-s",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/872a589b-ced2-48d0-9194-eb782877239d/45+deg+left+back+blue.jpg",
+      "alt": ""
+     },
+     {
+      "H2": "Specifications"
+     },
+     {
+      "LI.accordion-item": "Ergonomic Support Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "H4.\n": "Ergonomic Support"
+     },
+     {
+      "SPAN.accordion-item__title": "Ergonomic Support"
+     },
+     {
+      "DIV.\n": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "P": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "LI.accordion-item": "Adjustable Fit Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "H4.\n": "Adjustable Fit"
+     },
+     {
+      "SPAN.accordion-item__title": "Adjustable Fit"
+     },
+     {
+      "DIV.\n": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "P": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "LI.accordion-item": "Breathable Materials Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "H4.\n": "Breathable Materials"
+     },
+     {
+      "SPAN.accordion-item__title": "Breathable Materials"
+     },
+     {
+      "DIV.\n": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "P": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "LI.accordion-item": "Weather-Resistant Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "H4.\n": "Weather-Resistant"
+     },
+     {
+      "SPAN.accordion-item__title": "Weather-Resistant"
+     },
+     {
+      "DIV.\n": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "P": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "LI.accordion-item": "Safety Features Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "H4.\n": "Safety Features"
+     },
+     {
+      "SPAN.accordion-item__title": "Safety Features"
+     },
+     {
+      "DIV.\n": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "P": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "LI.accordion-item": "Removable Sunshade A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "H4.\n": "Removable Sunshade"
+     },
+     {
+      "SPAN.accordion-item__title": "Removable Sunshade"
+     },
+     {
+      "DIV.\n": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "P": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "LI.accordion-item": "Integrated Cockpit Safety Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "H4.\n": "Integrated Cockpit Safety"
+     },
+     {
+      "SPAN.accordion-item__title": "Integrated Cockpit Safety"
+     },
+     {
+      "DIV.\n": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "P": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-reviews",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": []
+   },
+   {
+    "cls": "page-section \n    \n      related-product",
+    "theme": "",
+    "bgimg": null,
+    "blocks": []
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/store/p/forest": {
+  "title": "Vandra™ Forest — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "H1.product-title": "Vandra™ Forest"
+     },
+     {
+      "DIV.product-price": "$219.00"
+     },
+     {
+      "P": "Breathe in the serenity of forest trails with the Vandra™ Forest. Its deep green hue captures the restorative power of nature, offering a sense of warmth and connection wherever you roam. The cushioned straps and back panel provide extra comfort on long walks, so you can focus on enjoying the journey. Featuring clean, Scandinavian lines, the minimal design suits both natural settings and everyday environments, blending seamlessly with any personal style."
+     },
+     {
+      "field": "INPUT",
+      "type": "number",
+      "name": "quantity-input",
+      "ph": ""
+     },
+     {
+      "P": "Breathe in the serenity of forest trails with the Vandra™ Forest. Its deep green hue captures the restorative power of nature, offering a sense of warmth and connection wherever you roam. The cushioned straps and back panel provide extra comfort on long walks, so you can focus on enjoying the journey. Featuring clean, Scandinavian lines, the minimal design suits both natural settings and everyday environments, blending seamlessly with any personal style."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6d8b9f03-06b9-41c8-a3fd-3a1880508ce7/45+deg+left+back+Green.jpg",
+      "alt": ""
+     },
+     {
+      "H3": "Specifications"
+     },
+     {
+      "LI.accordion-item": "Ergonomic Support Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "H4.\n": "Ergonomic Support"
+     },
+     {
+      "SPAN.accordion-item__title": "Ergonomic Support"
+     },
+     {
+      "DIV.\n": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "P": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "LI.accordion-item": "Adjustable Fit Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "H4.\n": "Adjustable Fit"
+     },
+     {
+      "SPAN.accordion-item__title": "Adjustable Fit"
+     },
+     {
+      "DIV.\n": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "P": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "LI.accordion-item": "Breathable Materials Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "H4.\n": "Breathable Materials"
+     },
+     {
+      "SPAN.accordion-item__title": "Breathable Materials"
+     },
+     {
+      "DIV.\n": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "P": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "LI.accordion-item": "Weather-Resistant Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "H4.\n": "Weather-Resistant"
+     },
+     {
+      "SPAN.accordion-item__title": "Weather-Resistant"
+     },
+     {
+      "DIV.\n": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "P": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "LI.accordion-item": "Safety Features Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "H4.\n": "Safety Features"
+     },
+     {
+      "SPAN.accordion-item__title": "Safety Features"
+     },
+     {
+      "DIV.\n": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "P": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "LI.accordion-item": "Removable Sunshade A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "H4.\n": "Removable Sunshade"
+     },
+     {
+      "SPAN.accordion-item__title": "Removable Sunshade"
+     },
+     {
+      "DIV.\n": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "P": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "LI.accordion-item": "Integrated Cockpit Safety Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "H4.\n": "Integrated Cockpit Safety"
+     },
+     {
+      "SPAN.accordion-item__title": "Integrated Cockpit Safety"
+     },
+     {
+      "DIV.\n": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "P": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-detail-",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/a14f696e-d294-4baa-899f-1d504e88ae67/Green+back.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/9f977b3a-0eef-4ebf-8299-0812b9cb286c/back+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6ce9aa30-89cc-464f-ac6f-3d6650806eae/Front+G.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/94dbaecb-6c8d-4cd9-bd1f-1258ce7be2ec/45+deg+right+edit+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/eeb2e006-5b50-4cf2-9f9f-6558832975db/profile+1+reen.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b5ab7364-7642-400d-8306-488d68106420/45+Degree+G.jpg",
+      "alt": ""
+     },
+     {
+      "H1.product-title": "Vandra™ Forest"
+     },
+     {
+      "DIV.product-price": "$219.00"
+     },
+     {
+      "P": "Breathe in the serenity of forest trails with the Vandra™ Forest. Its deep green hue captures the restorative power of nature, offering a sense of warmth and connection wherever you roam. The cushioned straps and back panel provide extra comfort on long walks, so you can focus on enjoying the journey. Featuring clean, Scandinavian lines, the minimal design suits both natural settings and everyday environments, blending seamlessly with any personal style."
+     },
+     {
+      "field": "INPUT",
+      "type": "number",
+      "name": "quantity-input",
+      "ph": ""
+     },
+     {
+      "P": "Breathe in the serenity of forest trails with the Vandra™ Forest. Its deep green hue captures the restorative power of nature, offering a sense of warmth and connection wherever you roam. The cushioned straps and back panel provide extra comfort on long walks, so you can focus on enjoying the journey. Featuring clean, Scandinavian lines, the minimal design suits both natural settings and everyday environments, blending seamlessly with any personal style."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      layout-engine-s",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/6d8b9f03-06b9-41c8-a3fd-3a1880508ce7/45+deg+left+back+Green.jpg",
+      "alt": ""
+     },
+     {
+      "H3": "Specifications"
+     },
+     {
+      "LI.accordion-item": "Ergonomic Support Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "H4.\n": "Ergonomic Support"
+     },
+     {
+      "SPAN.accordion-item__title": "Ergonomic Support"
+     },
+     {
+      "DIV.\n": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "P": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "LI.accordion-item": "Adjustable Fit Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "H4.\n": "Adjustable Fit"
+     },
+     {
+      "SPAN.accordion-item__title": "Adjustable Fit"
+     },
+     {
+      "DIV.\n": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "P": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "LI.accordion-item": "Breathable Materials Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "H4.\n": "Breathable Materials"
+     },
+     {
+      "SPAN.accordion-item__title": "Breathable Materials"
+     },
+     {
+      "DIV.\n": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "P": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "LI.accordion-item": "Weather-Resistant Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "H4.\n": "Weather-Resistant"
+     },
+     {
+      "SPAN.accordion-item__title": "Weather-Resistant"
+     },
+     {
+      "DIV.\n": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "P": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "LI.accordion-item": "Safety Features Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "H4.\n": "Safety Features"
+     },
+     {
+      "SPAN.accordion-item__title": "Safety Features"
+     },
+     {
+      "DIV.\n": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "P": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "LI.accordion-item": "Removable Sunshade A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "H4.\n": "Removable Sunshade"
+     },
+     {
+      "SPAN.accordion-item__title": "Removable Sunshade"
+     },
+     {
+      "DIV.\n": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "P": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "LI.accordion-item": "Integrated Cockpit Safety Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "H4.\n": "Integrated Cockpit Safety"
+     },
+     {
+      "SPAN.accordion-item__title": "Integrated Cockpit Safety"
+     },
+     {
+      "DIV.\n": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "P": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-reviews",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": []
+   },
+   {
+    "cls": "page-section \n    \n      related-product",
+    "theme": "",
+    "bgimg": null,
+    "blocks": []
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/store/p/glacier": {
+  "title": "Vandra™ Glacier — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "H1.product-title": "Vandra™ Glacier"
+     },
+     {
+      "DIV.product-price": "$219.00"
+     },
+     {
+      "P": "Feel the gentle hush of snowy landscapes with the Vandra™ Glacier. Inspired by Scandinavian winters, its off-white and grey design adds a calm, refined touch to your everyday adventures—whether you’re strolling through city streets or exploring frosty trails. It’s easy to adjust for a snug fit for both you and your baby, while breathable materials keep you and your little one comfortable, no matter the temperature. Thoughtfully engineered for balanced weight distribution, it provides ergonomic support and lasting comfort on every outing."
+     },
+     {
+      "field": "INPUT",
+      "type": "number",
+      "name": "quantity-input",
+      "ph": ""
+     },
+     {
+      "P": "Feel the gentle hush of snowy landscapes with the Vandra™ Glacier. Inspired by Scandinavian winters, its off-white and grey design adds a calm, refined touch to your everyday adventures—whether you’re strolling through city streets or exploring frosty trails. It’s easy to adjust for a snug fit for both you and your baby, while breathable materials keep you and your little one comfortable, no matter the temperature. Thoughtfully engineered for balanced weight distribution, it provides ergonomic support and lasting comfort on every outing."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/3c34c182-2635-4f77-90a1-dc4748d63139/45+deg+left+back+White+.jpg",
+      "alt": ""
+     },
+     {
+      "LI.accordion-item": "Ergonomic Support Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "H4.\n": "Ergonomic Support"
+     },
+     {
+      "SPAN.accordion-item__title": "Ergonomic Support"
+     },
+     {
+      "DIV.\n": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "P": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "LI.accordion-item": "Adjustable Fit Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "H4.\n": "Adjustable Fit"
+     },
+     {
+      "SPAN.accordion-item__title": "Adjustable Fit"
+     },
+     {
+      "DIV.\n": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "P": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "LI.accordion-item": "Breathable Materials Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "H4.\n": "Breathable Materials"
+     },
+     {
+      "SPAN.accordion-item__title": "Breathable Materials"
+     },
+     {
+      "DIV.\n": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "P": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "LI.accordion-item": "Weather-Resistant Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "H4.\n": "Weather-Resistant"
+     },
+     {
+      "SPAN.accordion-item__title": "Weather-Resistant"
+     },
+     {
+      "DIV.\n": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "P": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "LI.accordion-item": "Safety Features Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "H4.\n": "Safety Features"
+     },
+     {
+      "SPAN.accordion-item__title": "Safety Features"
+     },
+     {
+      "DIV.\n": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "P": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "LI.accordion-item": "Removable Sunshade A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "H4.\n": "Removable Sunshade"
+     },
+     {
+      "SPAN.accordion-item__title": "Removable Sunshade"
+     },
+     {
+      "DIV.\n": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "P": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "LI.accordion-item": "Integrated Cockpit Safety Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "H4.\n": "Integrated Cockpit Safety"
+     },
+     {
+      "SPAN.accordion-item__title": "Integrated Cockpit Safety"
+     },
+     {
+      "DIV.\n": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "P": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-detail-",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/4081886a-932f-444f-918b-ee04e96b6625/white.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/206a468c-43ce-402d-b6c3-9c5ab5e416d5/back+White.jpg",
+      "alt": "back White.jpg"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/e49fbb1e-357c-4140-8880-9fe84ac1ae6a/45+deg+back+left+White.png",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/451f1e3c-9654-4d82-81ab-b76e5fc86c27/Front+White.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/d5efd32a-aa81-45ef-91bd-bb7a5da779e4/45+Degree+White.jpg",
+      "alt": ""
+     },
+     {
+      "H1.product-title": "Vandra™ Glacier"
+     },
+     {
+      "DIV.product-price": "$219.00"
+     },
+     {
+      "P": "Feel the gentle hush of snowy landscapes with the Vandra™ Glacier. Inspired by Scandinavian winters, its off-white and grey design adds a calm, refined touch to your everyday adventures—whether you’re strolling through city streets or exploring frosty trails. It’s easy to adjust for a snug fit for both you and your baby, while breathable materials keep you and your little one comfortable, no matter the temperature. Thoughtfully engineered for balanced weight distribution, it provides ergonomic support and lasting comfort on every outing."
+     },
+     {
+      "field": "INPUT",
+      "type": "number",
+      "name": "quantity-input",
+      "ph": ""
+     },
+     {
+      "P": "Feel the gentle hush of snowy landscapes with the Vandra™ Glacier. Inspired by Scandinavian winters, its off-white and grey design adds a calm, refined touch to your everyday adventures—whether you’re strolling through city streets or exploring frosty trails. It’s easy to adjust for a snug fit for both you and your baby, while breathable materials keep you and your little one comfortable, no matter the temperature. Thoughtfully engineered for balanced weight distribution, it provides ergonomic support and lasting comfort on every outing."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      layout-engine-s",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/3c34c182-2635-4f77-90a1-dc4748d63139/45+deg+left+back+White+.jpg",
+      "alt": ""
+     },
+     {
+      "LI.accordion-item": "Ergonomic Support Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "H4.\n": "Ergonomic Support"
+     },
+     {
+      "SPAN.accordion-item__title": "Ergonomic Support"
+     },
+     {
+      "DIV.\n": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "P": "Padded back panel with lumbar support ensures balanced weight distribution and prevents strain on the wearer’s back."
+     },
+     {
+      "LI.accordion-item": "Adjustable Fit Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "H4.\n": "Adjustable Fit"
+     },
+     {
+      "SPAN.accordion-item__title": "Adjustable Fit"
+     },
+     {
+      "DIV.\n": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "P": "Easily customizable straps and buckles to fit different parent body types and accommodate growing babies."
+     },
+     {
+      "LI.accordion-item": "Breathable Materials Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "H4.\n": "Breathable Materials"
+     },
+     {
+      "SPAN.accordion-item__title": "Breathable Materials"
+     },
+     {
+      "DIV.\n": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "P": "Light, mesh-infused fabrics that promote airflow and keep both parent and child cool in the summer and warm in the winter."
+     },
+     {
+      "LI.accordion-item": "Weather-Resistant Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "H4.\n": "Weather-Resistant"
+     },
+     {
+      "SPAN.accordion-item__title": "Weather-Resistant"
+     },
+     {
+      "DIV.\n": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "P": "Durable, water-repellent finish on the outer fabric to protect against light rain and splashes."
+     },
+     {
+      "LI.accordion-item": "Safety Features Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "H4.\n": "Safety Features"
+     },
+     {
+      "SPAN.accordion-item__title": "Safety Features"
+     },
+     {
+      "DIV.\n": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "P": "Complies with U.S. standards ASTM F2549-22 and other global safety regulations."
+     },
+     {
+      "LI.accordion-item": "Removable Sunshade A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "H4.\n": "Removable Sunshade"
+     },
+     {
+      "SPAN.accordion-item__title": "Removable Sunshade"
+     },
+     {
+      "DIV.\n": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "P": "A sun canopy or hood to protect your baby from harsh UV rays or light rain."
+     },
+     {
+      "LI.accordion-item": "Integrated Cockpit Safety Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "H4.\n": "Integrated Cockpit Safety"
+     },
+     {
+      "SPAN.accordion-item__title": "Integrated Cockpit Safety"
+     },
+     {
+      "DIV.\n": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     },
+     {
+      "P": "Frame-mounted child seat with 5-point harness ensures stability and impact resistance on uneven terrain."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      product-reviews",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": []
+   },
+   {
+    "cls": "page-section \n    \n      related-product",
+    "theme": "",
+    "bgimg": null,
+    "blocks": []
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/stories": {
+  "title": "Stories | Discover Vandra™ adventures — Vandra",
+  "sections": [
+   {
+    "cls": "sections",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Stories"
+     },
+     {
+      "P.sqsrte-small": "Find inspiration in our diverse customer trips. Explore the collection of our carefully selected trips. Discover your next exciting adventure and join us for an active journey, allowing you to explore the world like never before."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/37c5e927-881b-4f29-997a-f9682b79b8f3/DJI_0263.JPG",
+      "alt": "Iceland: 'Hiking Europe’s biggest active volcano'"
+     },
+     {
+      "H3.portfolio-title": "Iceland: 'Hiking Europe’s biggest active volcano'"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/34a3e87b-9db2-4cb7-bf70-4f3062ea1d84/20250324_142713046_iOS.png",
+      "alt": "Norway: 'Finding the trolltunga'"
+     },
+     {
+      "H3.portfolio-title": "Norway: 'Finding the trolltunga'"
+     },
+     {
+      "H1": "Share your Vandra™ stories.Receive special deals."
+     },
+     {
+      "P": "Share your own Vandra™ stories and become part of the special community. By joining, you'll gain access to exclusive deals and offers designed just for you. Your voice matters, and we look forward to hearing your journey with Vandra™."
+     },
+     {
+      "P": "Submit you stories →"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Stories"
+     },
+     {
+      "P.sqsrte-small": "Find inspiration in our diverse customer trips. Explore the collection of our carefully selected trips. Discover your next exciting adventure and join us for an active journey, allowing you to explore the world like never before."
+     }
+    ]
+   },
+   {
+    "cls": "page-section cdk-section full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/37c5e927-881b-4f29-997a-f9682b79b8f3/DJI_0263.JPG",
+      "alt": "Iceland: 'Hiking Europe’s biggest active volcano'"
+     },
+     {
+      "H3.portfolio-title": "Iceland: 'Hiking Europe’s biggest active volcano'"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/34a3e87b-9db2-4cb7-bf70-4f3062ea1d84/20250324_142713046_iOS.png",
+      "alt": "Norway: 'Finding the trolltunga'"
+     },
+     {
+      "H3.portfolio-title": "Norway: 'Finding the trolltunga'"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Share your Vandra™ stories.Receive special deals."
+     },
+     {
+      "P": "Share your own Vandra™ stories and become part of the special community. By joining, you'll gain access to exclusive deals and offers designed just for you. Your voice matters, and we look forward to hearing your journey with Vandra™."
+     },
+     {
+      "P": "Submit you stories →"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/stories/iceland": {
+  "title": "Iceland: 'Hiking Europe’s biggest active volcano' — Vandra",
+  "sections": [
+   {
+    "cls": "sections",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Vatnajokull, IcelandCrossing Fire & Ice"
+     },
+     {
+      "P": "DateOctober 2024"
+     },
+     {
+      "P": "EquipmentVandra™ Glacier"
+     },
+     {
+      "P": "Story submitted by @Metin Agar"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/5626c6ae-4d60-407b-bbda-a499fc843a1b/DJI_0269.JPG",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/751e002f-1680-4ed1-bd37-57fd2b211126/DJI_0148.JPG",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cb945f9e-c8f0-4d5e-bc75-5a5132112361/DJI_0095.JPG",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/37c5e927-881b-4f29-997a-f9682b79b8f3/DJI_0263.JPG",
+      "alt": ""
+     },
+     {
+      "H2": "Crossing Fire & Ice A Journey Through Iceland with Vandra"
+     },
+     {
+      "H4": "A path less pavedIn early spring, Ali and Metin set out on a trek across southern Iceland — a place where terrain shifts from lava fields to glacial plains in a single afternoon. Their goal: to reach the edges of Vatnajökull, Europe’s largest glacier, carrying Metins 1-year-old daughter with them. What they found was not just a landscape shaped by fire and ice, but a kind of calm in the chaos. A stillness that made the wind and snow feel like old companions."
+     },
+     {
+      "H4": "Built for the wild, shaped for lifeCrossing glacial tongues and tracing ancient volcanic ridges, they discovered something unexpected: that the more remote the terrain, the more connected they felt. \"It was never about conquering the landscape,\" Metin added. \"It was about moving through it together.\" From Reykjavik to Skaftafell and beyond, their journey wasn’t just about the destination — it was a story written one step at a time. Vandra came with them, but more importantly, helped keep the adventure theirs."
+     },
+     {
+      "H4": "Moving through contrastsThe trip was as unpredictable as Iceland itself. One moment under blue skies, the next in sideways rain. What remained constant was their pace — and their gear. The Vandra™ Glacier kept their equipment protected through each shift, with its weatherproof outer, ergonomic frame, and modular compartments allowing them to adjust on the go."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f60317bf-a047-4242-950e-f4a9d2384c34/DJI_0123.JPG",
+      "alt": ""
+     },
+     {
+      "H1": "Share your Vandra™ story.Enjoy deals and offers."
+     },
+     {
+      "H4": "Share your own Vandra™ stories and become part of the special community. By joining, you'll gain access to exclusive deals and offers designed just for you. Your voice matters, and we look forward to hearing your journey with Vandra™."
+     },
+     {
+      "P": "Submit you stories →"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Vatnajokull, IcelandCrossing Fire & Ice"
+     },
+     {
+      "P": "DateOctober 2024"
+     },
+     {
+      "P": "EquipmentVandra™ Glacier"
+     },
+     {
+      "P": "Story submitted by @Metin Agar"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/5626c6ae-4d60-407b-bbda-a499fc843a1b/DJI_0269.JPG",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/751e002f-1680-4ed1-bd37-57fd2b211126/DJI_0148.JPG",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/cb945f9e-c8f0-4d5e-bc75-5a5132112361/DJI_0095.JPG",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/37c5e927-881b-4f29-997a-f9682b79b8f3/DJI_0263.JPG",
+      "alt": ""
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Crossing Fire & Ice A Journey Through Iceland with Vandra"
+     },
+     {
+      "H4": "A path less pavedIn early spring, Ali and Metin set out on a trek across southern Iceland — a place where terrain shifts from lava fields to glacial plains in a single afternoon. Their goal: to reach the edges of Vatnajökull, Europe’s largest glacier, carrying Metins 1-year-old daughter with them. What they found was not just a landscape shaped by fire and ice, but a kind of calm in the chaos. A stillness that made the wind and snow feel like old companions."
+     },
+     {
+      "H4": "Built for the wild, shaped for lifeCrossing glacial tongues and tracing ancient volcanic ridges, they discovered something unexpected: that the more remote the terrain, the more connected they felt. \"It was never about conquering the landscape,\" Metin added. \"It was about moving through it together.\" From Reykjavik to Skaftafell and beyond, their journey wasn’t just about the destination — it was a story written one step at a time. Vandra came with them, but more importantly, helped keep the adventure theirs."
+     },
+     {
+      "H4": "Moving through contrastsThe trip was as unpredictable as Iceland itself. One moment under blue skies, the next in sideways rain. What remained constant was their pace — and their gear. The Vandra™ Glacier kept their equipment protected through each shift, with its weatherproof outer, ergonomic frame, and modular compartments allowing them to adjust on the go."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/f60317bf-a047-4242-950e-f4a9d2384c34/DJI_0123.JPG",
+      "alt": ""
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "bright-inverse",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Share your Vandra™ story.Enjoy deals and offers."
+     },
+     {
+      "H4": "Share your own Vandra™ stories and become part of the special community. By joining, you'll gain access to exclusive deals and offers designed just for you. Your voice matters, and we look forward to hearing your journey with Vandra™."
+     },
+     {
+      "P": "Submit you stories →"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/stories/norway": {
+  "title": "Norway: 'Finding the trolltunga' — Vandra",
+  "sections": [
+   {
+    "cls": "sections",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Hafjell, NorwayHiking the Norwegian Fjell"
+     },
+     {
+      "P": "DateMarch 2025"
+     },
+     {
+      "P": "EquipmentVandra™ Forest"
+     },
+     {
+      "P": "Submitted by @Djani.pletelic"
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/24c49b6e-86cb-4186-a18f-a1b96b19bd3a/20250324_135609095_iOS.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/53c5d0f7-3e70-4f3b-bbd0-8d39ddbfd144/20250325_140748035_iOS.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b045408c-9f7a-4b34-8bbd-7fe00fd0e68e/20250325_140443351_iOS.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/1748893532487-IDJL205ZL5Y9UJH8VVPD/unsplash-image-wCAeG_q1sRA.jpg",
+      "alt": ""
+     },
+     {
+      "H2": "Hiking the Norwegian Fjell A Journey in Norw with Vandra™"
+     },
+     {
+      "H4": "Into the highlandsIn early summer, Djani and Melissa set off with their daughter Bella on a trail through the Norwegian highlands. Starting in the Hemsedal valley, they moved between open plateaus and narrow birch forests, following the quiet pulse of the land. Their goal wasn’t a summit — it was the stillness between the climbs, the unspoken moments when Bella’s laughter echoed into the wide sky. What they found was not just space to walk, but space to be."
+     },
+     {
+      "H4": "Less weight, more presenceCrossing shallow rivers and winding through highland moss, they carried only what they needed — and noticed more because of it. “We stopped thinking about what we were carrying,” Djani said. “It just worked.” The Vandra™ system moved with them, not against them: weatherproof, balanced, and adaptable as the terrain shifted. It didn’t just carry Bella. It kept the rhythm of the day."
+     },
+     {
+      "H4": "When the light lingersOne moment brought sun over snow patches, the next a soft drizzle through clouded skies. But their pace never faltered. With modular compartments and a snug, weatherproof frame, Vandra™ kept Bella close, dry, and content. “We didn’t need to hurry,” Melissa said. “Everything we needed was already with us.” The journey wasn’t about reaching somewhere — it was about what stayed with them along the way."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/34a3e87b-9db2-4cb7-bf70-4f3062ea1d84/20250324_142713046_iOS.png",
+      "alt": ""
+     },
+     {
+      "H1": "Share your Vandra™ story.Enjoy deals and offers."
+     },
+     {
+      "H4": "Share your own Vandra™ stories and become part of the special community. By joining, you'll gain access to exclusive deals and offers designed just for you. Your voice matters, and we look forward to hearing your journey with Vandra™."
+     },
+     {
+      "P": "Submit you stories →"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Hafjell, NorwayHiking the Norwegian Fjell"
+     },
+     {
+      "P": "DateMarch 2025"
+     },
+     {
+      "P": "EquipmentVandra™ Forest"
+     },
+     {
+      "P": "Submitted by @Djani.pletelic"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "",
+    "bgimg": null,
+    "blocks": [
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/24c49b6e-86cb-4186-a18f-a1b96b19bd3a/20250324_135609095_iOS.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/53c5d0f7-3e70-4f3b-bbd0-8d39ddbfd144/20250325_140748035_iOS.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/b045408c-9f7a-4b34-8bbd-7fe00fd0e68e/20250325_140443351_iOS.jpg",
+      "alt": ""
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/1748893532487-IDJL205ZL5Y9UJH8VVPD/unsplash-image-wCAeG_q1sRA.jpg",
+      "alt": ""
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Hiking the Norwegian Fjell A Journey in Norw with Vandra™"
+     },
+     {
+      "H4": "Into the highlandsIn early summer, Djani and Melissa set off with their daughter Bella on a trail through the Norwegian highlands. Starting in the Hemsedal valley, they moved between open plateaus and narrow birch forests, following the quiet pulse of the land. Their goal wasn’t a summit — it was the stillness between the climbs, the unspoken moments when Bella’s laughter echoed into the wide sky. What they found was not just space to walk, but space to be."
+     },
+     {
+      "H4": "Less weight, more presenceCrossing shallow rivers and winding through highland moss, they carried only what they needed — and noticed more because of it. “We stopped thinking about what we were carrying,” Djani said. “It just worked.” The Vandra™ system moved with them, not against them: weatherproof, balanced, and adaptable as the terrain shifted. It didn’t just carry Bella. It kept the rhythm of the day."
+     },
+     {
+      "H4": "When the light lingersOne moment brought sun over snow patches, the next a soft drizzle through clouded skies. But their pace never faltered. With modular compartments and a snug, weatherproof frame, Vandra™ kept Bella close, dry, and content. “We didn’t need to hurry,” Melissa said. “Everything we needed was already with us.” The journey wasn’t about reaching somewhere — it was about what stayed with them along the way."
+     },
+     {
+      "img": "https://images.squarespace-cdn.com/content/v1/6722610e83a465349885c9ad/34a3e87b-9db2-4cb7-bf70-4f3062ea1d84/20250324_142713046_iOS.png",
+      "alt": ""
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "bright-inverse",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H1": "Share your Vandra™ story.Enjoy deals and offers."
+     },
+     {
+      "H4": "Share your own Vandra™ stories and become part of the special community. By joining, you'll gain access to exclusive deals and offers designed just for you. Your voice matters, and we look forward to hearing your journey with Vandra™."
+     },
+     {
+      "P": "Submit you stories →"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/terms": {
+  "title": "Terms & conditions | Review Terms & Conditions Now — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Terms and Conditions"
+     },
+     {
+      "P": "Welcome to Ekstrakt. By accessing and using our website, you agree to comply with and be bound by the following terms and conditions. Please read them carefully."
+     },
+     {
+      "P": "Terms and Conditions"
+     },
+     {
+      "P": "Website Terms and Conditions of Use"
+     },
+     {
+      "P": "This website is owned and operated by PFS Enterprise LLC (“Vandra”). By accessing or using this website, you agree to be bound by these Terms and Conditions and all applicable laws. If you do not agree with any part of these terms, you are prohibited from using this site."
+     },
+     {
+      "P": "Access and Use"
+     },
+     {
+      "P": "All content on this website — including product descriptions, photos, illustrations, text, and logos — is the intellectual property of Vandra and is protected by copyright and trademark law. You may view and use this content for personal, non-commercial purposes only. Any unauthorized reproduction, distribution, or modification is strictly prohibited."
+     },
+     {
+      "P": "Product Use Disclaimer"
+     },
+     {
+      "P": "Vandra outdoor equipment is designed for recreational and personal use. It is your responsibility to use all products according to their instructions and weight limits. Misuse or failure to follow safety guidelines can result in injury.Our products are not intended for professional rescue, climbing, or tactical operations unless explicitly stated."
+     },
+     {
+      "P": "Limitation of Liability"
+     },
+     {
+      "P": "Vandra, its affiliates, employees, and suppliers are not liable for any injuries, damages, losses, or incidents arising from the use or misuse of our products or website. This includes direct, indirect, incidental, and consequential damages, to the fullest extent permitted by law."
+     },
+     {
+      "P": "Safety and Compliance"
+     },
+     {
+      "P": "All Vandra gear meets applicable U.S. consumer safety standards. However, outdoor activities carry inherent risks. Always inspect your gear before use, and supervise children when using products such as child carriers or camping equipment."
+     },
+     {
+      "P": "Indemnity"
+     },
+     {
+      "P": "You agree to indemnify, defend, and hold harmless Vandra, its employees, directors, and suppliers from any claim, loss, or damage (including legal fees) resulting from your breach of these terms or misuse of the website or products."
+     },
+     {
+      "P": "Revisions"
+     },
+     {
+      "P": "The content on this site may include errors or outdated information. Vandra reserves the right to update or modify content at any time without prior notice but is not obligated to do so."
+     },
+     {
+      "P": "Links"
+     },
+     {
+      "P": "Vandra may link to third-party websites for informational purposes. These links do not imply endorsement, and we are not responsible for their content, availability, or policies."
+     },
+     {
+      "P": "Governing Law"
+     },
+     {
+      "P": "These Terms and Conditions shall be governed by and construed under the laws of the State of Wyoming, USA, without regard to conflict of law principles. Any legal action arising from your use of this site or purchase of Vandra products shall be brought in the appropriate courts of Wyoming."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Terms and Conditions"
+     },
+     {
+      "P": "Welcome to Ekstrakt. By accessing and using our website, you agree to comply with and be bound by the following terms and conditions. Please read them carefully."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white",
+    "bgimg": null,
+    "blocks": [
+     {
+      "P": "Terms and Conditions"
+     },
+     {
+      "P": "Website Terms and Conditions of Use"
+     },
+     {
+      "P": "This website is owned and operated by PFS Enterprise LLC (“Vandra”). By accessing or using this website, you agree to be bound by these Terms and Conditions and all applicable laws. If you do not agree with any part of these terms, you are prohibited from using this site."
+     },
+     {
+      "P": "Access and Use"
+     },
+     {
+      "P": "All content on this website — including product descriptions, photos, illustrations, text, and logos — is the intellectual property of Vandra and is protected by copyright and trademark law. You may view and use this content for personal, non-commercial purposes only. Any unauthorized reproduction, distribution, or modification is strictly prohibited."
+     },
+     {
+      "P": "Product Use Disclaimer"
+     },
+     {
+      "P": "Vandra outdoor equipment is designed for recreational and personal use. It is your responsibility to use all products according to their instructions and weight limits. Misuse or failure to follow safety guidelines can result in injury.Our products are not intended for professional rescue, climbing, or tactical operations unless explicitly stated."
+     },
+     {
+      "P": "Limitation of Liability"
+     },
+     {
+      "P": "Vandra, its affiliates, employees, and suppliers are not liable for any injuries, damages, losses, or incidents arising from the use or misuse of our products or website. This includes direct, indirect, incidental, and consequential damages, to the fullest extent permitted by law."
+     },
+     {
+      "P": "Safety and Compliance"
+     },
+     {
+      "P": "All Vandra gear meets applicable U.S. consumer safety standards. However, outdoor activities carry inherent risks. Always inspect your gear before use, and supervise children when using products such as child carriers or camping equipment."
+     },
+     {
+      "P": "Indemnity"
+     },
+     {
+      "P": "You agree to indemnify, defend, and hold harmless Vandra, its employees, directors, and suppliers from any claim, loss, or damage (including legal fees) resulting from your breach of these terms or misuse of the website or products."
+     },
+     {
+      "P": "Revisions"
+     },
+     {
+      "P": "The content on this site may include errors or outdated information. Vandra reserves the right to update or modify content at any time without prior notice but is not obligated to do so."
+     },
+     {
+      "P": "Links"
+     },
+     {
+      "P": "Vandra may link to third-party websites for informational purposes. These links do not imply endorsement, and we are not responsible for their content, availability, or policies."
+     },
+     {
+      "P": "Governing Law"
+     },
+     {
+      "P": "These Terms and Conditions shall be governed by and construed under the laws of the State of Wyoming, USA, without regard to conflict of law principles. Any legal action arising from your use of this site or purchase of Vandra products shall be brought in the appropriate courts of Wyoming."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/shipping": {
+  "title": "Shipping & return | Shop Confidently Today — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Shipping and Return"
+     },
+     {
+      "P": "At Vandra, we strive to provide a seamless shopping experience, ensuring you receive your supplements promptly and can shop with confidence."
+     },
+     {
+      "P": "Shipping"
+     },
+     {
+      "P": "All Vandra products are fulfilled by Amazon (FBA). When you place an order, Amazon handles the entire process — from warehousing to delivery. Shipping times, options, and fees are determined by Amazon at checkout based on your location and selected delivery method."
+     },
+     {
+      "P": "• Standard delivery is typically completed within 2–5 business days within the continental U.S."
+     },
+     {
+      "P": "• Expedited and priority options may be available at checkout."
+     },
+     {
+      "P": "• Tracking information will be provided via Amazon once your order ships."
+     },
+     {
+      "P": "If you have any issues with shipping or delivery, please contact Amazon Customer Servicedirectly through your order history."
+     },
+     {
+      "P": "Returns"
+     },
+     {
+      "P": "Vandra products purchased through Amazon are subject to Amazon’s return and refund policies. Most items are eligible for return within 30 days of delivery if they are unused and in original condition."
+     },
+     {
+      "P": "To initiate a return:"
+     },
+     {
+      "P": "1. Go to Your Orders on your Amazon account"
+     },
+     {
+      "P": "2. Select the item you wish to return"
+     },
+     {
+      "P": "3. Follow the on-screen instructions to process the return through Amazon"
+     },
+     {
+      "P": "If your item arrives damaged or defective, Amazon will typically offer a replacement or full refund. For assistance, please contact Amazon Support through your account."
+     },
+     {
+      "P": "Questions or Issues?"
+     },
+     {
+      "P": "If you experience a product-related issue (such as a missing part or safety concern), you can also reach out to us directly at info@vandrastudios.com. Please include your Amazon order number and a description of the issue so we can assist further."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Shipping and Return"
+     },
+     {
+      "P": "At Vandra, we strive to provide a seamless shopping experience, ensuring you receive your supplements promptly and can shop with confidence."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white",
+    "bgimg": null,
+    "blocks": [
+     {
+      "P": "Shipping"
+     },
+     {
+      "P": "All Vandra products are fulfilled by Amazon (FBA). When you place an order, Amazon handles the entire process — from warehousing to delivery. Shipping times, options, and fees are determined by Amazon at checkout based on your location and selected delivery method."
+     },
+     {
+      "P": "• Standard delivery is typically completed within 2–5 business days within the continental U.S."
+     },
+     {
+      "P": "• Expedited and priority options may be available at checkout."
+     },
+     {
+      "P": "• Tracking information will be provided via Amazon once your order ships."
+     },
+     {
+      "P": "If you have any issues with shipping or delivery, please contact Amazon Customer Servicedirectly through your order history."
+     },
+     {
+      "P": "Returns"
+     },
+     {
+      "P": "Vandra products purchased through Amazon are subject to Amazon’s return and refund policies. Most items are eligible for return within 30 days of delivery if they are unused and in original condition."
+     },
+     {
+      "P": "To initiate a return:"
+     },
+     {
+      "P": "1. Go to Your Orders on your Amazon account"
+     },
+     {
+      "P": "2. Select the item you wish to return"
+     },
+     {
+      "P": "3. Follow the on-screen instructions to process the return through Amazon"
+     },
+     {
+      "P": "If your item arrives damaged or defective, Amazon will typically offer a replacement or full refund. For assistance, please contact Amazon Support through your account."
+     },
+     {
+      "P": "Questions or Issues?"
+     },
+     {
+      "P": "If you experience a product-related issue (such as a missing part or safety concern), you can also reach out to us directly at info@vandrastudios.com. Please include your Amazon order number and a description of the issue so we can assist further."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ },
+ "/privacy": {
+  "title": "Privacy & Cookies | Learn About Privacy & Cookies — Vandra",
+  "sections": [
+   {
+    "cls": "page-regions",
+    "theme": null,
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Privacy Policy"
+     },
+     {
+      "P": "At Vandra, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website and make a purchase."
+     },
+     {
+      "P": "Last Updated: June 2025"
+     },
+     {
+      "P": "Vandra is a brand owned and operated by PFS Enterprise LLC. Your privacy is important to us. This policy explains how we collect, use, and protect your personal information when you interact with our brand, website, or support channels."
+     },
+     {
+      "P": "1. Information We Collect"
+     },
+     {
+      "P": "We only collect personal information you voluntarily provide to us, such as:"
+     },
+     {
+      "P": "• Contact details (e.g., name, email, phone number)"
+     },
+     {
+      "P": "• Shipping information (e.g., address, country, zip code)"
+     },
+     {
+      "P": "• Product registration details (e.g., model name, date code)"
+     },
+     {
+      "P": "• Communications with customer support"
+     },
+     {
+      "P": "We do not collect payment information directly."
+     },
+     {
+      "P": "2. How We Use Your Information"
+     },
+     {
+      "P": "We use your information to:"
+     },
+     {
+      "P": "• Provide customer support"
+     },
+     {
+      "P": "• Register your product for safety alerts or recall notifications"
+     },
+     {
+      "P": "• Respond to product-related questions or feedback"
+     },
+     {
+      "P": "• Improve our products and customer experience"
+     },
+     {
+      "P": "We do not sell, rent, or share your personal data with third parties for marketing purposes."
+     },
+     {
+      "P": "3. Data Security"
+     },
+     {
+      "P": "We use reasonable physical, technical, and administrative safeguards to protect your information. Access is restricted to authorized personnel only."
+     },
+     {
+      "P": "4. Your Rights"
+     },
+     {
+      "P": "You may request to:"
+     },
+     {
+      "P": "• Access the personal information we have about you"
+     },
+     {
+      "P": "• Correct or update your information"
+     },
+     {
+      "P": "• Have your data deleted from our systems"
+     },
+     {
+      "P": "• Opt out of further communication"
+     },
+     {
+      "P": "To exercise these rights, contact us at info@vandrastudios.com."
+     },
+     {
+      "P": "5. Children’s Privacy"
+     },
+     {
+      "P": "Our website and products are not directed to children under 13 years of age. We do not knowingly collect personal information from children."
+     },
+     {
+      "P": "6. Cookies and Tracking"
+     },
+     {
+      "P": "We do not currently use cookies or tracking tools on our website. If this changes in the future, we will update this policy accordingly."
+     },
+     {
+      "P": "7. Changes to This Policy"
+     },
+     {
+      "P": "We may update this Privacy Policy from time to time. The latest version will always be posted on this page with a revised date."
+     },
+     {
+      "P": "8. Contact Us"
+     },
+     {
+      "P": "For questions or concerns about your privacy, please contact:info@vandrastudios.com"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2": "Privacy Policy"
+     },
+     {
+      "P": "At Vandra, we value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you visit our website and make a purchase."
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white",
+    "bgimg": null,
+    "blocks": [
+     {
+      "P": "Last Updated: June 2025"
+     },
+     {
+      "P": "Vandra is a brand owned and operated by PFS Enterprise LLC. Your privacy is important to us. This policy explains how we collect, use, and protect your personal information when you interact with our brand, website, or support channels."
+     },
+     {
+      "P": "1. Information We Collect"
+     },
+     {
+      "P": "We only collect personal information you voluntarily provide to us, such as:"
+     },
+     {
+      "P": "• Contact details (e.g., name, email, phone number)"
+     },
+     {
+      "P": "• Shipping information (e.g., address, country, zip code)"
+     },
+     {
+      "P": "• Product registration details (e.g., model name, date code)"
+     },
+     {
+      "P": "• Communications with customer support"
+     },
+     {
+      "P": "We do not collect payment information directly."
+     },
+     {
+      "P": "2. How We Use Your Information"
+     },
+     {
+      "P": "We use your information to:"
+     },
+     {
+      "P": "• Provide customer support"
+     },
+     {
+      "P": "• Register your product for safety alerts or recall notifications"
+     },
+     {
+      "P": "• Respond to product-related questions or feedback"
+     },
+     {
+      "P": "• Improve our products and customer experience"
+     },
+     {
+      "P": "We do not sell, rent, or share your personal data with third parties for marketing purposes."
+     },
+     {
+      "P": "3. Data Security"
+     },
+     {
+      "P": "We use reasonable physical, technical, and administrative safeguards to protect your information. Access is restricted to authorized personnel only."
+     },
+     {
+      "P": "4. Your Rights"
+     },
+     {
+      "P": "You may request to:"
+     },
+     {
+      "P": "• Access the personal information we have about you"
+     },
+     {
+      "P": "• Correct or update your information"
+     },
+     {
+      "P": "• Have your data deleted from our systems"
+     },
+     {
+      "P": "• Opt out of further communication"
+     },
+     {
+      "P": "To exercise these rights, contact us at info@vandrastudios.com."
+     },
+     {
+      "P": "5. Children’s Privacy"
+     },
+     {
+      "P": "Our website and products are not directed to children under 13 years of age. We do not knowingly collect personal information from children."
+     },
+     {
+      "P": "6. Cookies and Tracking"
+     },
+     {
+      "P": "We do not currently use cookies or tracking tools on our website. If this changes in the future, we will update this policy accordingly."
+     },
+     {
+      "P": "7. Changes to This Policy"
+     },
+     {
+      "P": "We may update this Privacy Policy from time to time. The latest version will always be posted on this page with a revised date."
+     },
+     {
+      "P": "8. Contact Us"
+     },
+     {
+      "P": "For questions or concerns about your privacy, please contact:info@vandrastudios.com"
+     }
+    ]
+   },
+   {
+    "cls": "page-section \n    \n      full-bleed-sect",
+    "theme": "white-bold",
+    "bgimg": null,
+    "blocks": [
+     {
+      "H2.newsletter-form-header-title": "Newsletter"
+     },
+     {
+      "P": "Sign up with your email address to receive the news and updates."
+     },
+     {
+      "LABEL.newsletter-form-field-label": "Email Address"
+     },
+     {
+      "field": "INPUT",
+      "type": "email",
+      "name": "email",
+      "ph": "Email Address"
+     },
+     {
+      "H3": "Help"
+     },
+     {
+      "H3": "Contact"
+     },
+     {
+      "P.sqsrte-small": "PFS Enterprise LLC\u000330 N Gould St, STE4000, Sheridan, WY 82801, USA\u0003info@vandrastudios.com"
+     },
+     {
+      "P.sqsrte-small": "Terms & ConditionsShipping and Return\u0003Privacy PolicyProduct registration"
+     },
+     {
+      "P.sqsrte-small": "Vandra™ 2025 | All rights reserved"
+     }
+    ]
+   }
+  ]
+ }
+}
