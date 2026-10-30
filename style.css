@@ -45,6 +45,7 @@ strong{font-weight:700}
 .sec{position:relative;display:flex;width:100%;min-height:var(--mh,0);padding-top:var(--spt,0);background:#fff}
 .t-light{background:#eee}
 .t-bright-inverse{background:#000}
+.hdr.t-bright-inverse{background:transparent}
 .sec-bg{position:absolute;inset:0;overflow:hidden}
 .sec-bg img{width:100%;height:100%;object-fit:cover}
 .sec-ov{position:absolute;inset:0;background:#000}
